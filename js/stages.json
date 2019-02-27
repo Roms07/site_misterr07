@@ -1,0 +1,16 @@
+[
+	{
+		"id":0,
+		"name":"Stage1",
+		"image":"images/stages/stage01.jpg",
+		"link":"http://www.mediafire.com",		
+		"type":"dbz"
+	},
+	{
+		"id":1,
+		"name":"Stage2",
+		"image":"images/stages/stage02.jpg",
+		"link":"http://www.mediafire.com",		
+		"type":"dbz"
+	}
+]

@@ -1,0 +1,204 @@
+{
+  "chars": [
+    {
+      "id": 0,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 1,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 2,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 3,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 4,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 5,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 6,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 7,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 0,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 1,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 2,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 3,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 0,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 1,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 2,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 3,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 0,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 1,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 2,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    },
+    {
+      "id": 3,
+      "name": "Goku",
+      "portrait": "img/portraits/goku0.png",
+      "link": "www.mediafire.com",
+      "image": "img/portraits/goku1.png",
+      "sprite": "img/portraits/goku2.png",
+      "description": "texte de description du perso",
+      "type": "dbz"
+    }
+  ]
+}

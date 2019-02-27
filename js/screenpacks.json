@@ -1,0 +1,20 @@
+[
+	{
+		"id":0,
+		"name":"Screenpack 1",
+		"image":"images/stages/stage01.jpg",
+		"video":"http://youtube.com",
+		"link":"http://www.mediafire.com",
+		"description":"texte de description",	
+		"type":"dbz"
+	},
+	{
+		"id":1,
+		"name":"Screenpack 2",
+		"image":"images/mugen000.png",
+		"video":"http://youtube.com",
+		"link":"http://www.mediafire.com",
+		"description":"texte de description",	
+		"type":"dbz"
+	}
+]
