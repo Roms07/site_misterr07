@@ -68,9 +68,11 @@
 <script id="chars-template" type="text/x-handlebars-template">
     {{#each chars}}
         <div class="perso col-lg-2" id='{{id}}'>
-            <a href="">
-                <img class="portrait" src="{{portrait}}" alt="{{name}}">
-            </a>
+            <img class="portrait" src="{{portrait}}" alt="{{name}}">
+            <input type="hidden" name="link" value="{{link}}">
+            <input type="hidden" name="sprite" value="{{sprite}}">
+            <input type="hidden" name="image" value="{{image}}">
+            <input type="hidden" name="description" value="{{description}}">
         </div>
     {{/each}}
 </script>
