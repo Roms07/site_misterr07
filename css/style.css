@@ -135,16 +135,13 @@ li .active {
 .link {
     background-color: #a7200f;
     border: #4b1602 3px solid;
-    border-radius: 12%;
-}
-
-.link a {
+    border-radius: 9%;
     color :#fff;
     font-family: 'Bangers', cursive;
     text-decoration: none;
     font-size: 1.85rem;
     text-align: center;
-    padding: .75em;
+    padding: .15em;
 }
 
 .sprite {
