@@ -47,6 +47,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+    max-width: 100%;
 }
 
 .navs-link {
@@ -119,6 +120,7 @@ li .active {
     padding:.0em !important;
     border: #000 3px solid;
     border-radius: 50%;
+    max-width: 100%;
 }
 
 .big-portrait {
