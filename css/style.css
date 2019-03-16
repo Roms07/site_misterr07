@@ -111,13 +111,11 @@ li .active {
 }
 
 .perso{
-    padding-left:.05em !important;
-    padding-right:.05em !important;
-    margin: 2px;
+    padding : 0 .15em 0 .15em;
 }
 
 .portrait {
-    padding:.0em !important;
+    padding: 0 !important;
     border: #000 3px solid;
     border-radius: 50%;
     max-width: 100%;
