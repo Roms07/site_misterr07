@@ -1,13 +1,18 @@
+$(document).ready(function () {
+// Création de la "liste"
+	$(function () {
+		// Grab the template script
+		let theTemplateScript = $("#stages-template").html();
 
-jQuery(document).ready(function ($) {
-	$.getJSON('js/stages.json', function(stages) {
-			$('#stages').html('');
-			for (var i=0; i<stages.length; i++){
-				$('#stages').append(
-					'<div class="stage col-lg-3"><a href="'+stages[i].link +'">'
-					+'<img class="img_stage"'
-					+' src="' +stages[i].image 
-					+'" alt='+stages[i].id +'></a></div>');
-			}
+		// Compile the template
+		let theTemplate = Handlebars.compile(theTemplateScript);
+
+		// Define our data object
+		$.getJSON("js/stages.json", {data: "json"}, function (response) {
+			// Pass our data to the template
+			let theCompiledHtml = theTemplate(response);
+			// Add the compiled html to the page
+			$('#stages').prepend(theCompiledHtml);
 		});
-});
+	});
+})

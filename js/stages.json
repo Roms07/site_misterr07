@@ -1,16 +1,60 @@
-[
-	{
-		"id":0,
-		"name":"Stage1",
-		"image":"images/stages/stage01.jpg",
-		"link":"http://www.mediafire.com",		
-		"type":"dbz"
-	},
-	{
-		"id":1,
-		"name":"Stage2",
-		"image":"images/stages/stage02.jpg",
-		"link":"http://www.mediafire.com",		
-		"type":"dbz"
-	}
-]
+{
+	"stages": [
+		{
+			"id": 0,
+			"name": "Stage1",
+			"image": "img/stages/stage01.jpg",
+			"link": "http://www.mediafire.com",
+			"type": "dbz"
+		},
+		{
+			"id": 1,
+			"name": "Stage2",
+			"image": "img/stages/stage02.jpg",
+			"link": "http://www.mediafire.com",
+			"type": "dbz"
+		},
+		{
+			"id": 2,
+			"name": "Stage1",
+			"image": "img/stages/stage03.jpg",
+			"link": "http://www.mediafire.com",
+			"type": "dbz"
+		},
+		{
+			"id": 3,
+			"name": "Stage2",
+			"image": "img/stages/stage04.jpg",
+			"link": "http://www.mediafire.com",
+			"type": "dbz"
+		},
+		{
+			"id": 4,
+			"name": "Stage1",
+			"image": "img/stages/stage05.jpg",
+			"link": "http://www.mediafire.com",
+			"type": "dbz"
+		},
+		{
+			"id": 5,
+			"name": "Stage2",
+			"image": "img/stages/stage02.jpg",
+			"link": "http://www.mediafire.com",
+			"type": "dbz"
+		},
+		{
+			"id": 6,
+			"name": "Stage1",
+			"image": "img/stages/stage01.jpg",
+			"link": "http://www.mediafire.com",
+			"type": "dbz"
+		},
+		{
+			"id": 7,
+			"name": "Stage2",
+			"image": "img/stages/stage02.jpg",
+			"link": "http://www.mediafire.com",
+			"type": "dbz"
+		}
+	]
+}
