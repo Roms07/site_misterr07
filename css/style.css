@@ -178,3 +178,16 @@ li .active {
     border: 2px solid #fef;
     border-radius: 2em;
 }
+
+.image-stage:hover {
+    border: 2px solid #e8410c;
+    border-radius: 2em;
+}
+
+.stage-name {
+    position: absolute;
+    top: 7.5em;
+    left: 4.6em;
+    color: #fff;
+    font-size: 1.65rem;
+}

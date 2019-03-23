@@ -1,5 +1,6 @@
 $(document).ready(function () {
-// Création de la "liste"
+
+	// Création de la "liste"
 	$(function () {
 		// Grab the template script
 		let theTemplateScript = $("#stages-template").html();
@@ -15,4 +16,13 @@ $(document).ready(function () {
 			$('#stages').prepend(theCompiledHtml);
 		});
 	});
-})
+
+	$('#stages').on( 'mouseover', '.stage',function () {
+		$('.stage-name').remove();
+		let name = $(this).find('.image-stage').attr('alt');
+		$(this).append(
+			'<span class="stage-name">' +name +'</span>'
+		);
+
+	})
+});
