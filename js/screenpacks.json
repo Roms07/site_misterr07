@@ -1,20 +1,58 @@
-[
-	{
-		"id":0,
-		"name":"Screenpack 1",
-		"image":"images/stages/stage01.jpg",
-		"video":"http://youtube.com",
-		"link":"http://www.mediafire.com",
-		"description":"texte de description",	
-		"type":"dbz"
-	},
-	{
-		"id":1,
-		"name":"Screenpack 2",
-		"image":"images/mugen000.png",
-		"video":"http://youtube.com",
-		"link":"http://www.mediafire.com",
-		"description":"texte de description",	
-		"type":"dbz"
-	}
-]
+{
+  "screenpacks": [
+    {
+      "id": 0,
+      "name": "Screenpack 1",
+      "image": "images/stages/stage01.jpg",
+      "video": "https://www.dailymotion.com/embed/video/xpkqc9",
+      "link": "http://www.mediafire.com",
+      "description": "texte de description",
+      "type": "saint-seiya"
+    },
+    {
+      "id": 1,
+      "name": "Screenpack 2",
+      "image": "images/mugen000.png",
+      "video": "https://www.dailymotion.com/embed/video/x5f8rid",
+      "link": "http://www.mediafire.com",
+      "description": "texte de description",
+      "type": "other"
+    },
+    {
+      "id": 0,
+      "name": "Screenpack 1",
+      "image": "images/stages/stage01.jpg",
+      "video": "https://www.dailymotion.com/embed/video/xpkqc9",
+      "link": "http://www.mediafire.com",
+      "description": "texte de description",
+      "type": "saint-seiya"
+    },
+    {
+      "id": 1,
+      "name": "Screenpack 2",
+      "image": "images/mugen000.png",
+      "video": "https://www.dailymotion.com/embed/video/x5f8rid",
+      "link": "http://www.mediafire.com",
+      "description": "texte de description",
+      "type": "other"
+    },
+    {
+      "id": 0,
+      "name": "Screenpack 1",
+      "image": "images/stages/stage01.jpg",
+      "video": "https://www.dailymotion.com/embed/video/xpkqc9",
+      "link": "http://www.mediafire.com",
+      "description": "texte de description",
+      "type": "saint-seiya"
+    },
+    {
+      "id": 1,
+      "name": "Screenpack 2",
+      "image": "images/mugen000.png",
+      "video": "https://www.dailymotion.com/embed/video/x5f8rid",
+      "link": "http://www.mediafire.com",
+      "description": "texte de description",
+      "type": "other"
+    }
+  ]
+}
