@@ -186,8 +186,8 @@ li .active {
 
 .stage-name {
     position: absolute;
-    top: 7.5em;
-    left: 4.6em;
+    top: 74%;
+    left: 33%;
     color: #fff;
-    font-size: 1.65rem;
+    font-size: 1.35rem;
 }
