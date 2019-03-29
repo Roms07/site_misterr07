@@ -164,19 +164,19 @@ li .active {
 /*-------- Stages ------------*/
 
 #stages {
-    margin: auto;
+    margin: 0 .5em;
 }
 
 .stage {
-    max-width: 100%;
     padding: 0 !important;
     text-align: center;
-    margin: .25em .25em;
 }
 
 .image-stage {
+    max-width: 98%;
     border: 2px solid #fef;
     border-radius: 2em;
+    padding: 0 !important;
 }
 
 .image-stage:hover {
