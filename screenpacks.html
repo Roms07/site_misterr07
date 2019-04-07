@@ -44,19 +44,16 @@
 <script src="js/algo_screenpacks.js"></script>
 <script id="screenpacks-template" type="text/x-handlebars-template">
     {{#each screenpacks}}
-    <div class="screenpack col-lg-4">
-        <div class="container-fluid">
-            <h2>{{name}}</h2>
-            <div class="row">
-                <div class="col-lg-9">
-                    <iframe frameborder="0" src={{video}} allowfullscreen allow="autoplay"></iframe>
+    <div class="p-2 col-lg-6">
+        <div class="screenpack container-fluid">
+            <div class="p-1 row">
+                <div class="col-lg-8">
+                    <iframe frameborder="0" src={{video}} allowfullscreen allow="autoplay" class="video-screenpack"></iframe>
                 </div>
-                <div class="col-lg-6">
-                    <a href="{{link}}">Télécharger</a>
+                <div class="col-lg-4">
+                    <a href="{{link}}"><button class="screenpack-name">{{name}}</button></a>
+                    <p class="screen-description">{{description}}</p>
                 </div>
-            </div>
-            <div class="row">
-                <p>{{description}}</p>
             </div>
         </div>
     </div>
