@@ -3,7 +3,8 @@
     {
       "id": 0,
       "name": "Screenpack 1",
-      "image": "images/stages/stage01.jpg",
+      "isVideo" : true,
+      "images": "images/stages/stage01.jpg",
       "video": "https://www.dailymotion.com/embed/video/xpkqc9",
       "link": "http://www.mediafire.com",
       "description": "texte de description",
@@ -12,44 +13,64 @@
     {
       "id": 1,
       "name": "Screenpack 2",
-      "image": "images/mugen000.png",
-      "video": "https://www.dailymotion.com/embed/video/x5f8rid",
+      "isVideo": false,
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+
+      ],
+      "video": "",
       "link": "http://www.mediafire.com",
       "description": "texte de description",
       "type": "other"
     },
     {
-      "id": 0,
+      "id": 2,
       "name": "Screenpack 1",
-      "image": "images/stages/stage01.jpg",
+      "isVideo" : true,
+      "images": "images/stages/stage01.jpg",
       "video": "https://www.dailymotion.com/embed/video/xpkqc9",
       "link": "http://www.mediafire.com",
       "description": "texte de description",
       "type": "saint-seiya"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Screenpack 2",
-      "image": "images/mugen000.png",
-      "video": "https://www.dailymotion.com/embed/video/x5f8rid",
+      "isVideo": false,
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+
+      ],
+      "video": "",
       "link": "http://www.mediafire.com",
       "description": "texte de description",
       "type": "other"
     },
     {
-      "id": 0,
+      "id": 4,
       "name": "Screenpack 1",
-      "image": "images/stages/stage01.jpg",
+      "isVideo" : true,
+      "images": "images/stages/stage01.jpg",
       "video": "https://www.dailymotion.com/embed/video/xpkqc9",
       "link": "http://www.mediafire.com",
       "description": "texte de description",
       "type": "saint-seiya"
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "Screenpack 2",
-      "image": "images/mugen000.png",
-      "video": "https://www.dailymotion.com/embed/video/x5f8rid",
+      "isVideo": false,
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+
+      ],
+      "video": "",
       "link": "http://www.mediafire.com",
       "description": "texte de description",
       "type": "other"

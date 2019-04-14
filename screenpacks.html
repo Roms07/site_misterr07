@@ -4,10 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <meta name="description" content="Le site des créations mugen de Misterr07.">
-    <meta name="keywords" content="mugen stages misterr07 saint seiya dbz">
-    <title>Stages</title>
+    <meta name="keywords" content="mugen stages misterr07 saint seiya dbz screenpacks marvel street fighter">
+    <title>Screenpacks</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap-grid.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/carousel.css">
 </head>
 <body>
 
@@ -48,7 +49,37 @@
         <div class="screenpack container-fluid">
             <div class="p-1 row">
                 <div class="col-lg-8">
+                    {{#if isVideo}}
                     <iframe frameborder="0" src={{video}} allowfullscreen allow="autoplay" class="video-screenpack"></iframe>
+                    {{else}}
+                    <div class="container">
+                        <div class="carousel">
+                            {{#each images}}
+                            <input type="radio" id="carousel-{{@index}}-{{@../index}}" name="carousel[]" checked>
+                            {{/each}}
+                            <ul class="carousel__items">
+                                {{#each images}}
+                                <li class="carousel__item"><img src={{this}} alt="img-{{@index}}" class="carousel-img"></li>
+                                {{/each}}
+                            </ul>
+                            <div class="carousel__prev">
+                                {{#each images}}
+                                <label for="carousel-{{@index}}-{{@../index}}"></label>
+                                {{/each}}
+                            </div>
+                            <div class="carousel__next">
+                                {{#each images}}
+                                <label for="carousel-{{@index}}-{{@../index}}"></label>
+                                {{/each}}
+                            </div>
+                            <div class="carousel__nav">
+                                {{#each images}}
+                                <label for="carousel-{{@index}}-{{@../index}}"></label>
+                                {{/each}}
+                            </div>
+                        </div>
+                    </div>
+                    {{/if}}
                 </div>
                 <div class="col-lg-4">
                     <a href="{{link}}"><button class="screenpack-name">{{name}}</button></a>

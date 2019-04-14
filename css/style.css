@@ -232,3 +232,8 @@ li .active {
     font-size: 1.075rem;
     margin-top : .45em;
 }
+
+.carousel-img {
+    border: 1px solid rgba(222,222,222,.35);
+    border-radius: .75rem;
+}
