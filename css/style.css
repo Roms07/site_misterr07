@@ -237,3 +237,30 @@ li .active {
     border: 1px solid rgba(222,222,222,.35);
     border-radius: .75rem;
 }
+
+/*--------- Projects ---------------*/
+
+#projects {
+    margin: 0 .5em;
+
+}
+
+.project {
+    border: 2px solid #fef;
+    border-radius: 1.05em;
+}
+
+.video-projet {
+    width: 480px;
+    height: 360px;
+    border: 1px solid rgba(2, 2, 2, .45);
+    border-radius: .75rem;
+    margin: 0 .5em;
+}
+
+.project-title {
+    font-size: 1.75rem;
+    color: #fff;
+    text-align: center;
+    margin: .5em .5em;
+}
