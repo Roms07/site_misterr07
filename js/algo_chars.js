@@ -17,6 +17,8 @@ $(document).ready(function () {
         });
     });
 
+    let mixer = mixitup('#chars');
+
     $('#chars').on('click', '.perso', function () {
         let char = [];
         for (let i = 0; i < values.length; i++) {

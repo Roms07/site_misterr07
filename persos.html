@@ -30,7 +30,16 @@
         <div id="index" class="col-xl-9 pr-0">
             <div class="container-fluid mt-2 pr-0">
                 <div class="row mr-0">
-                    <div class="col-xl-8 row" id="chars">
+                    <div class="row col-xl-8">
+                        <div id="select-type" class="col-xl-12">
+                            <button type="button" data-filter="all">All</button>
+                            <button type="button" data-filter=".dbz">Category A</button>
+                            <button type="button" data-filter=".cvs">Category B</button>
+                            <button type="button" data-filter=".other">Category C</button>
+                        </div>
+                        <div id="chars" class="row col-xl-12">
+
+                        </div>
                     </div>
                     <div class="col-xl-4 row ml-3" id="view">
                     </div>
@@ -44,10 +53,11 @@
 </footer>
 <script src="js/jquery.min.js"></script>
 <script src="js/handlebars.min.js"></script>
+<script src="js/mixitup.js"></script>
 <script src="js/algo_chars.js"></script>
 <script id="chars-template" type="text/x-handlebars-template">
     {{#each chars}}
-        <div class="perso col-lg-2" id='{{id}}'>
+        <div class="perso col-lg-1 mix {{type}}" id='{{id}}'>
             <img class="portrait" src="{{portrait}}" alt="{{name}}">
             <input type="hidden" name="link" value="{{link}}">
             <input type="hidden" name="sprite" value="{{sprite}}">
