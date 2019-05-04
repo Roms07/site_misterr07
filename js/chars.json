@@ -18,7 +18,7 @@
       "image": "img/portraits/goku1.png",
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "cvs"
     },
     {
       "id": 2,
@@ -38,7 +38,7 @@
       "image": "img/portraits/goku1.png",
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "cvs"
     },
     {
       "id": 4,
@@ -58,7 +58,7 @@
       "image": "img/portraits/goku1.png",
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "other"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
       "image": "img/portraits/goku1.png",
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "other"
     },
     {
       "id": 0,
@@ -98,7 +98,7 @@
       "image": "img/portraits/goku1.png",
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "cvs"
     },
     {
       "id": 2,
@@ -118,7 +118,7 @@
       "image": "img/portraits/goku1.png",
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "cvs"
     },
     {
       "id": 0,
@@ -128,7 +128,7 @@
       "image": "img/portraits/goku1.png",
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "other"
     },
     {
       "id": 1,
@@ -148,7 +148,7 @@
       "image": "img/portraits/goku1.png",
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "other"
     },
     {
       "id": 3,
@@ -158,7 +158,7 @@
       "image": "img/portraits/goku1.png",
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "other"
     },
     {
       "id": 0,
@@ -178,7 +178,7 @@
       "image": "img/portraits/goku1.png",
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "other"
     },
     {
       "id": 2,
@@ -198,7 +198,7 @@
       "image": "img/portraits/goku1.png",
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "cvs"
     }
   ]
 }

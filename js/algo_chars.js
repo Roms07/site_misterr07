@@ -14,10 +14,11 @@ $(document).ready(function () {
             let theCompiledHtml = theTemplate(response);
             // Add the compiled html to the page
             $('#chars').prepend(theCompiledHtml);
+            let mixer = mixitup('#chars');
         });
     });
 
-    let mixer = mixitup('#chars');
+
 
     $('#chars').on('click', '.perso', function () {
         let char = [];
@@ -25,7 +26,7 @@ $(document).ready(function () {
             let goodInput = 'input[name=' +values[i] +']';
             char[values[i]] = $(this).find(goodInput).get(0).value;
         }
-console.log(char);
+
        $('#view').html(
        '<div class="choice container-fluid">'
            +'<div class="row mt-3">'
