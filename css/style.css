@@ -43,7 +43,6 @@ footer {
     background-image: url('../img/background.png');
     border: 3px solid #fff;
     border-radius: 50%;
-    width: 26em;
     height: 6.5em;
     display: flex;
     align-items: center;
@@ -291,13 +290,18 @@ li .active {
 }
 
 /***** Media queries ******/
-@media screen and (max-width: 1439px) {
+@media screen and (max-width: 1660px) {
     .navs-link {
-        font-size: 56px;
+        font-size: 58px;
     }
-
+}
+@media screen and (max-width: 1439px) {
     .btn-nav {
         border-radius: 36%;
+    }
+
+    .navs-link {
+        font-size: 54px;
     }
 
     #logo img{
@@ -307,7 +311,7 @@ li .active {
 
 @media screen and (max-width: 1199px) {
     .navs-link {
-        font-size: 48px;
+        font-size: 52px;
     }
 
     .btn-nav {
@@ -315,9 +319,9 @@ li .active {
     }
 }
 
-@media screen and (max-width: 940px) {
+@media screen and (max-width: 992px) {
     .navs-link {
-        font-size: 42px;
+        font-size: 46px;
     }
 
     .btn-nav {
@@ -327,32 +331,50 @@ li .active {
 
 @media screen and (max-width: 767px) {
     .navs-link {
-        font-size: 56px;
+        font-size: 42px;
     }
 
     .btn-nav {
         border-radius: 8%;
-        margin-left: auto;
-        margin-right: auto;
     }
 }
 
-@media screen and (max-width: 429px) {
+@media screen and (max-width: 575px) {
     .navs-link {
-        font-size: 48px;
-    }
-
-    #logo img{
-      display: none;
+        font-size: 38px;
     }
 
     .btn-nav {
         border-radius: 2%;
+        height: 5.5em;
     }
 }
 
-@media screen and (max-width: 319px) {
+@media screen and (max-width: 470px) {
     .navs-link {
-        font-size: 40px;
+        font-size: 32px;
+    }
+
+    .btn-nav {
+        margin: .35em .75em;
+    }
+
+    #pres h2 {
+        font-size: 1.75em;
+        margin: 15px 0;
+    }
+
+    #pres p {
+        font-size: .895em;
+        line-height: 1;
+        padding: 4px 4px;
+    }
+
+    #news h2 {
+        font-size: 1.75em;
+    }
+
+    #news p {
+        font-size: .85em;
     }
 }
