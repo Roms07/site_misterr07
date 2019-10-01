@@ -17,7 +17,10 @@
             <img id="img" src="img/logo.png" alt="Logo">
         </div>
     </header>
-    <div id="nav-bar">
+    <div class="toggle-nav">
+        <a class="toggle-nav-link" href="#">&#9776;</a>
+    </div>
+    <div id="nav-bar" class="visible">
         <ul class="navigation">
             <li class="btn-nav"><a href="./index.html" class="navs-link active">Accueil</a></li>
             <li class="btn-nav"><a href="./persos.html" class="navs-link">Persos</a></li>
@@ -26,8 +29,7 @@
             <li class="btn-nav"><a href="./projets.html" class="navs-link">Projets</a></li>
         </ul>
     </div>
-
-    <div class="container-fluid content">
+    <div class="container-fluid content visible">
         <div id="home" class="row">
             <div id="pres" class="col-xl-7 col-lg-7 col-md-7 col-sm-6 col">
                 <h2>Welcome in my world !</h2>
@@ -55,7 +57,7 @@
     <footer>
     </footer>
 </div>
-
 </body>
 <script src="js/jquery.min.js"></script>
+<script src="js/responsive.js"></script>
 </html>
