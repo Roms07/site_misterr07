@@ -1,4 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Bangers");
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
 @import "reset.css";
 
 /*-------- General -----------*/
@@ -26,9 +28,47 @@ body {
 }
 
 footer {
-    background-color: #000;
+    /*background-color: #000;*/
+    background: -webkit-linear-gradient(#F65E01,#D62300);
+    background: -moz-linear-gradient(#F65E01,#D62300);
+    background: -o-linear-gradient(#F65E01,#D62300);
+    background: linear-gradient(#F65E01,#D62300);
     height:7.33rem;
     margin-top: 1rem;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.45rem;
+}
+
+footer p {
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .4);
+    text-align: center;
+    margin-top: 1.9rem;
+}
+
+.links {
+    display: table;
+    margin: 1.45rem  auto;
+    width: 69%;
+}
+
+.partner {
+    display: table-cell;
+    padding: 0 .5rem;
+    text-align: center;
+}
+
+.partner a {
+    font-family: 'Bangers', cursive;
+    font-size: 1.9rem;
+    color: rgba(0, 0, 0, .8);
+    text-decoration: none;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .4);
+    transition: all .2s .1s;
+}
+
+.partner a:hover {
+    color: rgba(255,255,255,.7);
 }
 
 #logo {
@@ -38,13 +78,6 @@ footer {
 #img {
     margin: 0;
     width:auto;
-}
-
-@media screen and (max-width: 1149px) {
-    #img {
-        width: 100%;
-        height: auto;
-    }
 }
 
 /*-------  Navigation -----------*/
@@ -375,9 +408,28 @@ footer {
 
 /*!***** Media queries ******!*/
 
+@media screen and (max-width: 1149px) {
+    #img {
+        width: 100%;
+        height: auto;
+    }
+
+    .links {
+        width:80%;
+    }
+
+    .partner a {
+        font-size: 1.8rem;
+    }
+}
+
 @media screen and (max-width: 979px) {
     .navs-link {
         font-size: 2.7rem;
+    }
+
+    .links {
+        width:92%;
     }
 }
 
@@ -465,6 +517,7 @@ footer {
     #home h2 {
         margin: 1.1rem 0;
     }
+
     #pres {
         border-right: 0;
         border-bottom: #211809 dashed 1px;
@@ -477,5 +530,28 @@ footer {
 
     #news li {
         padding: 1.2rem 0 0 2.2rem;
+    }
+
+    .links {
+        width: 100%;
+    }
+
+    .partner a {
+        font-size: 1.65rem;
+    }
+
+    footer p {
+        font-size: 1.4rem;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .partner a {
+        font-size: 1.5rem;
+    }
+
+    footer p {
+        font-size: 1.2rem;
+        margin-top: 1.3rem;
     }
 }
