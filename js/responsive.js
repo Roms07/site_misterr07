@@ -18,14 +18,14 @@ $(function () {
     let height = window.innerHeight;
     let width = window.innerWidth;
 
-    if (width < 767 ) {
+    if (width < 768 ) {
         resizeNavBar(height);
     }
 
     $(window).resize( function () {
         let height = window.innerHeight;
         let width = window.innerWidth;
-        if (width < 767 ) {
+        if (width < 768 ) {
             resizeNavBar(height);
         } else {
             $('#nav-bar').css('height', '');
