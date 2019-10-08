@@ -11,58 +11,72 @@
 </head>
 <body>
 
-<header>
-    <div id="logo">
-        <img id="img" src="img/logo.png" alt="Logo">
-    </div>
-</header>
-<div id="page" class="container-fluid">
-    <div class="row">
-        <div id="nav-bar" class="col-xl-3">
-            <ul class="navigation">
-                <li class="btn-nav"><a href="./index.html" class="navs-link">Accueil</a></li>
-                <li class="btn-nav"><a href="./persos.html" class="navs-link active">Persos</a></li>
-                <li class="btn-nav"><a href="./stages.html" class="navs-link">Stages</a></li>
-                <li class="btn-nav"><a href="./screenpacks.html" class="navs-link">Screenpacks</a></li>
-                <li class="btn-nav"><a href="./projets.html" class="navs-link">Projets</a></li>
-            </ul>
+<div id="main">
+    <header>
+        <div id="logo">
+            <img id="img" src="img/logo.png" alt="Logo">
         </div>
-        <div id="index" class="col-xl-9 pr-0">
-            <div class="container-fluid mt-2 pr-0">
-                <div class="row mr-0">
-                    <div class="row col-xl-8">
-                        <div id="select-type" class="col-xl-12 text-center">
-                            <button type="button" data-filter="all" class="select-button">All</button>
-                            <button type="button" data-filter=".dbz" class="select-button">DBZ</button>
-                            <button type="button" data-filter=".cvs" class="select-button">CVS</button>
-                            <button type="button" data-filter=".other" class="select-button">Other</button>
-                        </div>
-                        <div id="chars" class="row col-xl-12">
-
-                        </div>
-                    </div>
-                    <div class="col-xl-4 row ml-3" id="view">
-                    </div>
+    </header>
+    <div class="toggle-nav">
+        <a class="toggle-nav-link" href="#">&#9776;</a>
+    </div>
+    <div id="nav-bar" class="visible">
+        <ul class="navigation">
+            <li class="btn-nav"><a href="./index.html" class="navs-link">Accueil</a></li>
+            <li class="btn-nav"><a href="./persos.html" class="navs-link active">Persos</a></li>
+            <li class="btn-nav"><a href="./stages.html" class="navs-link">Stages</a></li>
+            <li class="btn-nav"><a href="./screenpacks.html" class="navs-link">Screenpacks</a></li>
+            <li class="btn-nav"><a href="./projets.html" class="navs-link">Projets</a></li>
+        </ul>
+    </div>
+    <div class="container-fluid content visible">
+        <div id="select-type">
+            <button type="button" data-filter="all" class="select-button">Tous</button>
+            <button type="button" data-filter=".dbz" class="select-button">DBZ</button>
+            <button type="button" data-filter=".cvs" class="select-button">CVS</button>
+            <button type="button" data-filter=".other" class="select-button">Divers</button>
+        </div>
+        <div id="characters" class="row">
+            <div class="col-12 col-xl-9 col-md-8">
+                <div id="chars" class="row visible">
                 </div>
             </div>
+            <div class="col-12 col-xl-3 col-md-4" id="view">
+            </div>
+        </div>
+        <div class="close-view">
+            <a href="#">&#10007</a>
         </div>
     </div>
+    </div>
+    <footer>
+        <ul class="links">
+            <li class="partner"><a href="http://mugenguild.com/forum/" target="_blank">Mugen Fighter Guild</a></li>
+            <li class="partner"><a href="http://cdzjuego2d.foroactivo.com/" target="_blank">CDZ Juego</a></li>
+            <li class="partner"><a href="http://mugenpixart.mastertopforum.com/" target="_blank">Mugen Pixart</a></li>
+            <li class="partner"><a href="http://saint-seiya-px.fansforum.info" target="_blank">Saint Seiya PX</a></li>
+            <li class="partner"><a href="https://www.jeuxmangas.com/" target="_blank">Jeux Mangas</a></li>
+            <li class="partner"><a href="http://mike.mugen.free.fr/" target="_blank">Mike Mugen</a></li>
+        </ul>
+        <p>
+            Copyright  &#174; Misterr07 - 2019
+        </p>
+    </footer>
 </div>
-<footer>
-
-</footer>
 <script src="js/jquery.min.js"></script>
+<script src="js/responsive.js"></script>
 <script src="js/handlebars.min.js"></script>
 <script src="js/mixitup.js"></script>
 <script src="js/algo_chars.js"></script>
 <script id="chars-template" type="text/x-handlebars-template">
     {{#each chars}}
-        <div class="perso col-lg-1 mix {{type}}" id='{{id}}'>
+        <div class="perso col-xl-1 col-md-2 col-sm-2 col-3 mix {{type}}" id='{{id}}'>
             <img class="portrait" src="{{portrait}}" alt="{{name}}">
             <input type="hidden" name="link" value="{{link}}">
             <input type="hidden" name="sprite" value="{{sprite}}">
             <input type="hidden" name="image" value="{{image}}">
             <input type="hidden" name="description" value="{{description}}">
+            <input type="hidden" name="name" value="{{name}}">
         </div>
     {{/each}}
 </script>
