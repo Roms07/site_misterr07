@@ -39,7 +39,7 @@ $(document).ready(function () {
                +'<div class="col-6 p-0">'
                     +'<img class="big-portrait" alt="" src=' +char.image + '>'
                +'</div>'
-               +'<div class="col-6 text-center">'
+               +'<div class="col-6 text-center pr-0">'
                    +'<h3 class="name-char">'+char.name+'</h3>'
                    +'<img class="sprite" alt="Goku" src=' +char.sprite +'>'
                    +'<a target="_blank" class="link" href='+char.link +'>Telecharger</a>'
