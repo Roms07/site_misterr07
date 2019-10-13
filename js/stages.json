@@ -19,28 +19,28 @@
 			"name": "Stage1",
 			"image": "img/stages/stage03.jpg",
 			"link": "http://www.mediafire.com",
-			"type": "dbz"
+			"type": "cvs"
 		},
 		{
 			"id": 3,
 			"name": "Stage2",
 			"image": "img/stages/stage04.jpg",
 			"link": "http://www.mediafire.com",
-			"type": "dbz"
+			"type": "other"
 		},
 		{
 			"id": 4,
 			"name": "Stage1",
 			"image": "img/stages/stage05.jpg",
 			"link": "http://www.mediafire.com",
-			"type": "dbz"
+			"type": "cvs"
 		},
 		{
 			"id": 5,
 			"name": "Stage2",
 			"image": "img/stages/stage02.jpg",
 			"link": "http://www.mediafire.com",
-			"type": "dbz"
+			"type": "cvs"
 		},
 		{
 			"id": 6,
@@ -54,7 +54,7 @@
 			"name": "Stage2",
 			"image": "img/stages/stage02.jpg",
 			"link": "http://www.mediafire.com",
-			"type": "dbz"
+			"type": "other"
 		}
 	]
 }

@@ -14,6 +14,7 @@ $(document).ready(function () {
 			let theCompiledHtml = theTemplate(response);
 			// Add the compiled html to the page
 			$('#stages').prepend(theCompiledHtml);
+			let newMixer = mixitup('#stages');
 		});
 	});
 

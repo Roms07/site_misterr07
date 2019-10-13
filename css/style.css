@@ -361,32 +361,34 @@ footer p {
 /*-------- Stages ------------*/
 
 #stages {
-    margin: 0 .5em;
+    margin: 0 2.5rem;
 }
 
 .stage {
-    padding: 0 !important;
+    padding: .35rem;
     text-align: center;
 }
 
 .image-stage {
     max-width: 98%;
-    border: 2px solid #fef;
-    border-radius: 2em;
-    padding: 0 !important;
+    border: #d5f8ff 6px groove;
+    border-radius:3%;
+    box-shadow: 0 0 2px 2px rgba(19, 19, 19, 0.6),
+    0 0 2px rgba(19, 19, 19, 0.6) inset;
 }
 
 .image-stage:hover {
-    border: 2px solid #e8410c;
-    border-radius: 2em;
+    border-width: 5px;
+    border-color: #fb5400;
+    box-shadow: inset 0 0 0 rgba(251,81,0,0.4), 0 0 1.5em rgba(251,81,0,0.6);
 }
 
 .stage-name {
     position: absolute;
-    top: 74%;
-    left: 33%;
+    top: 81%;
+    left: 36%;
     color: #fff;
-    font-size: 1.35rem;
+    font-size: 2.35rem;
 }
 
 /*-------- Screenpacks ------------*/
@@ -482,6 +484,10 @@ footer p {
         margin-top: 1.5rem;
         font-size: 1.75rem;
     }
+
+    .stage-name {
+        font-size: 2rem;
+    }
 }
 
 @media screen and (max-width: 1199px) {
@@ -510,6 +516,10 @@ footer p {
         margin-top: 1.25rem;
         font-size: 1.65rem;
     }
+
+    .stage-name {
+        font-size: 2.2rem;
+    }
 }
 
 @media screen and (max-width: 979px) {
@@ -519,6 +529,10 @@ footer p {
 
     .links {
         width:92%;
+    }
+
+    .stage-name {
+        font-size: 2.4rem;
     }
 }
 
@@ -683,6 +697,10 @@ footer p {
         font-size: 4rem;
         padding: 1rem 1.5rem;
     }
+
+    .stage-name {
+        font-size: 2.65rem;
+    }
 }
 
 @media screen and (max-width: 575px) {
@@ -712,11 +730,29 @@ footer p {
         font-size: 3.6rem;
         padding: .95rem 1.05rem;
     }
+
+    #stages {
+        margin: 0 .85rem;
+    }
+
+    .image-stage {
+        width: 48rem;
+    }
+
+    .stage-name {
+        top: 87%;
+        font-size: 2.65rem;
+    }
 }
 
 @media screen and (max-width: 475px) {
     .link {
         font-size: 3rem;
         padding: .85rem .65rem;
+    }
+
+    .stage-name {
+        top: 82%;
+        font-size: 2.35rem;
     }
 }

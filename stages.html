@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1">
     <meta name="description" content="Le site des créations mugen de Misterr07.">
     <meta name="keywords" content="mugen stages misterr07 saint seiya dbz">
     <title>Stages</title>
@@ -10,42 +10,58 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-
-<header>
-    <div id="logo">
-        <img id="img" src="img/logo.png" alt="Logo">
-    </div>
-</header>
-<div id="page" class="container-fluid">
-    <div class="row">
-        <div id="nav-bar" class="col-xl-3">
-            <ul class="navigation">
-                <li class="btn-nav"><a href="./index.html" class="navs-link">Accueil</a></li>
-                <li class="btn-nav"><a href="./persos.html" class="navs-link">Persos</a></li>
-                <li class="btn-nav"><a href="./stages.html" class="navs-link active">Stages</a></li>
-                <li class="btn-nav"><a href="./screenpacks.html" class="navs-link">Screenpacks</a></li>
-                <li class="btn-nav"><a href="./projets.html" class="navs-link">Projets</a></li>
-            </ul>
+<div id="main">
+    <header>
+        <div id="logo">
+            <img id="img" src="img/logo.png" alt="Logo">
         </div>
-        <div id="index" class="col-xl-9 pr-0">
-            <div class="container-fluid mt-2 p-0">
-                <div id="stages" class="row mr-0">
+    </header>
+    <div class="toggle-nav">
+        <a class="toggle-nav-link" href="#">&#9776;</a>
+    </div>
+    <div id="nav-bar" class="visible">
+        <ul class="navigation">
+            <li class="btn-nav"><a href="./index.html" class="navs-link">Accueil</a></li>
+            <li class="btn-nav"><a href="./persos.html" class="navs-link">Persos</a></li>
+            <li class="btn-nav"><a href="./stages.html" class="navs-link active">Stages</a></li>
+            <li class="btn-nav"><a href="./screenpacks.html" class="navs-link">Screenpacks</a></li>
+            <li class="btn-nav"><a href="./projets.html" class="navs-link">Projets</a></li>
+        </ul>
+    </div>
+    <div class="container-fluid content visible">
+        <div id="select-type">
+            <button type="button" data-filter="all" class="select-button">Tous</button>
+            <button type="button" data-filter=".dbz" class="select-button">DBZ</button>
+            <button type="button" data-filter=".cvs" class="select-button">CVS</button>
+            <button type="button" data-filter=".other" class="select-button">Divers</button>
+        </div>
+        <div id="stages" class="row">
 
-                </div>
-            </div>
         </div>
     </div>
+    <footer>
+        <ul class="links">
+            <li class="partner"><a href="http://mugenguild.com/forum/" target="_blank">Mugen Fighter Guild</a></li>
+            <li class="partner"><a href="http://cdzjuego2d.foroactivo.com/" target="_blank">CDZ Juego</a></li>
+            <li class="partner"><a href="http://mugenpixart.mastertopforum.com/" target="_blank">Mugen Pixart</a></li>
+            <li class="partner"><a href="http://saint-seiya-px.fansforum.info" target="_blank">Saint Seiya PX</a></li>
+            <li class="partner"><a href="https://www.jeuxmangas.com/" target="_blank">Jeux Mangas</a></li>
+            <li class="partner"><a href="http://mike.mugen.free.fr/" target="_blank">Mike Mugen</a></li>
+        </ul>
+        <p>
+            Copyright  &#174; Misterr07 - 2019
+        </p>
+    </footer>
 </div>
-<footer>
-
-</footer>
 <script src="js/jquery.min.js"></script>
+<script src="js/responsive.js"></script>
 <script src="js/handlebars.min.js"></script>
+<script src="js/mixitup.js"></script>
 <script src="js/algo_stages.js"></script>
 <script id="stages-template" type="text/x-handlebars-template">
     {{#each stages}}
-    <div class="stage col-lg-2" id='stage-{{id}}'>
-        <a href="{{link}}">
+    <div class="stage col-xl-2 col-lg-3 col-md-4 col-sm-6 col-12 mix {{type}}" id='stage-{{id}}'>
+        <a target=_blank"" href="{{link}}">
             <img class="image-stage" src="{{image}}" alt="{{name}}">
         </a>
     </div>
