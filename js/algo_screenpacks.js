@@ -14,6 +14,21 @@ $(document).ready(function () {
 			let theCompiledHtml = theTemplate(response);
 			// Add the compiled html to the page
 			$('#screenpacks').prepend(theCompiledHtml);
+			let screenpackMixer = mixitup('#screenpacks');
+
+			// We calculate the height of the video to keep the ratio 4/3 at the creation of the page
+			resizeVideo($('.video-screenpack'));
 		});
 	});
+
+
+
+	// Same, but when the window is resize
+	$(window).resize( function () {
+		resizeVideo($('.video-screenpack'));
+	});
 });
+
+function resizeVideo(video) {
+	video.height(video.width()*3/4);
+}

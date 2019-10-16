@@ -23,7 +23,7 @@
       "video": "",
       "link": "http://www.mediafire.com",
       "description": "texte de description",
-      "type": "other"
+      "type": "dbz"
     },
     {
       "id": 2,
@@ -47,7 +47,7 @@
       ],
       "video": "",
       "link": "http://www.mediafire.com",
-      "description": "texte de description",
+      "description": "texte de description 2",
       "type": "other"
     },
     {
@@ -57,7 +57,7 @@
       "images": "images/stages/stage01.jpg",
       "video": "https://www.dailymotion.com/embed/video/xpkqc9",
       "link": "http://www.mediafire.com",
-      "description": "texte de description",
+      "description": "Le screenpack est fourni avec les big portraits que vous voyiez dans l'écran select, et seuls ceux-ci permettent de faire fonctionner le screenpack correctement. N'oubliez pas de lire le read-me avant d'installer le screenpack ! ",
       "type": "saint-seiya"
     },
     {
@@ -72,8 +72,8 @@
       ],
       "video": "",
       "link": "http://www.mediafire.com",
-      "description": "texte de description",
-      "type": "other"
+      "description": "Le screenpack est fourni avec les big portraits que vous voyiez dans l'écran select, et seuls ceux-ci permettent de faire fonctionner le screenpack correctement. N'oubliez pas de lire le read-me avant d'installer le screenpack ! ",
+      "type": "dbz"
     }
   ]
 }
