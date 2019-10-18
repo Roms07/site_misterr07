@@ -432,6 +432,15 @@ footer p {
 .carousel-img {
     border: 1px solid rgba(222,222,222,.35);
     border-radius: .75rem;
+    min-width: 100%;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    color:#fff;
+}
+
+.swiper-pagination-bullet-active {
+    background: #fff;
 }
 
 /*--------- Projects ---------------*/

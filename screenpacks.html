@@ -7,8 +7,8 @@
     <meta name="keywords" content="mugen misterr07 saint seiya dbz screenpacks marvel street fighter">
     <title>Screenpacks</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap-grid.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/carousel.css">
 </head>
 <body>
 <div id="main">
@@ -58,6 +58,7 @@
 <script src="js/responsive.js"></script>
 <script src="js/handlebars.min.js"></script>
 <script src="js/mixitup.js"></script>
+<script src="https://unpkg.com/swiper/js/swiper.js"></script>
 <script src="js/algo_screenpacks.js"></script>
 <script id="screenpacks-template" type="text/x-handlebars-template">
     {{#each screenpacks}}
@@ -70,32 +71,23 @@
                         <iframe frameborder="0" src={{video}} allowfullscreen allow="autoplay" class="video-screenpack"></iframe>
                     </div>
                     {{else}}
-                    <div class="container">
-                        <div class="carousel">
+                    <!-- Slider main container -->
+                    <div class="swiper-container">
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper">
+                            <!-- Slides -->
                             {{#each images}}
-                            <input type="radio" id="carousel-{{@index}}-{{@../index}}" name="carousel[]" checked>
+                            <div class="swiper-slide">
+                                <img src="{{this}}" alt="img-{{@index}}" class="carousel-img">
+                            </div>
                             {{/each}}
-                            <ul class="carousel__items">
-                                {{#each images}}
-                                <li class="carousel__item"><img src={{this}} alt="img-{{@index}}" class="carousel-img"></li>
-                                {{/each}}
-                            </ul>
-                            <div class="carousel__prev">
-                                {{#each images}}
-                                <label for="carousel-{{@index}}-{{@../index}}"></label>
-                                {{/each}}
-                            </div>
-                            <div class="carousel__next">
-                                {{#each images}}
-                                <label for="carousel-{{@index}}-{{@../index}}"></label>
-                                {{/each}}
-                            </div>
-                            <div class="carousel__nav">
-                                {{#each images}}
-                                <label for="carousel-{{@index}}-{{@../index}}"></label>
-                                {{/each}}
-                            </div>
                         </div>
+                        <!-- If we need navigation buttons -->
+                        <div class="swiper-button-prev"></div>
+                        <div class="swiper-button-next"></div>
+
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
                     </div>
                     {{/if}}
                 </div>
