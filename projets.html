@@ -2,63 +2,162 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1">
     <meta name="description" content="Le site des créations mugen de Misterr07.">
-    <meta name="keywords" content="mugen stages misterr07 saint seiya dbz screenpacks marvel street fighter">
+    <meta name="keywords" content="mugen projets misterr07 saint seiya dbz screenpacks marvel street fighter">
     <title>Projets</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap-grid.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 
-<header>
-    <div id="logo">
-        <img id="img" src="img/logo.png" alt="Logo">
-    </div>
-</header>
-<div id="page" class="container-fluid">
-    <div class="row">
-        <div id="nav-bar" class="col-xl-3">
-            <ul class="navigation">
-                <li class="btn-nav"><a href="./index.html" class="navs-link">Accueil</a></li>
-                <li class="btn-nav"><a href="./persos.html" class="navs-link">Persos</a></li>
-                <li class="btn-nav"><a href="./stages.html" class="navs-link">Stages</a></li>
-                <li class="btn-nav"><a href="./screenpacks.html" class="navs-link">Screenpacks</a></li>
-                <li class="btn-nav"><a href="./projets.html" class="navs-link active">Projets</a></li>
-            </ul>
+<div id="main">
+    <header>
+        <div id="logo">
+            <img id="img" src="img/logo.png" alt="Logo">
         </div>
-        <div id="index" class="col-xl-9 pr-0">
-            <div class="container-fluid mt-2 p-0">
-                <div id="projets" class="row mr-0">
-                    <div class="col-xl-6 p-2">
-                        <div class="project">
-                            <h2 class="project-title">DBZ Fury Budokai</h2>
-                            <div class="row">
-                                <div class="col-xl-9">
-                                    <iframe frameborder="0" src="https://www.dailymotion.com/embed/video/x4hzx65"
-                                            allowfullscreen allow="autoplay" class="video-projet"></iframe>
+    </header>
+    <div class="toggle-nav">
+        <a class="toggle-nav-link" href="#">&#9776;</a>
+    </div>
+    <div id="nav-bar" class="visible">
+        <ul class="navigation">
+            <li class="btn-nav"><a href="./index.html" class="navs-link">Accueil</a></li>
+            <li class="btn-nav"><a href="./persos.html" class="navs-link">Persos</a></li>
+            <li class="btn-nav"><a href="./stages.html" class="navs-link">Stages</a></li>
+            <li class="btn-nav"><a href="./screenpacks.html" class="navs-link">Screenpacks</a></li>
+            <li class="btn-nav"><a href="./projets.html" class="navs-link active">Projets</a></li>
+        </ul>
+    </div>
+    <div class="container-fluid content visible">
+        <div id="projects" class="row">
+            <div class="col-12">
+                <div class="project container-fluid">
+                    <h2 class="project-title">DBZ Fury Budokai</h2>
+                    <div class="row">
+                        <div class="col-xl-4 col-md-6 col-sm-12">
+                            <div class="text-center">
+                                <iframe src="https://www.dailymotion.com/embed/video/x4hzx65"
+                                        allowfullscreen allow="autoplay" class="video-projet"></iframe>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-md-6 col-sm-12">
+                            <div class="swiper-container">
+                                <!-- Additional required wrapper -->
+                                <div class="swiper-wrapper">
+                                    <!-- Slides -->
+                                    <div class="swiper-slide">
+                                        <img src="img/stages/stage01.jpg" alt="img-1" class="carousel-img">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img src="img/stages/stage02.jpg" alt="img-1" class="carousel-img">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img src="img/stages/stage03.jpg" alt="img-1" class="carousel-img">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img src="img/stages/stage04.jpg" alt="img-1" class="carousel-img">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img src="img/stages/stage01.jpg" alt="img-1" class="carousel-img">
+                                    </div>
                                 </div>
-                                <div class="col-xl-2">
-                                    <button>
-                                        Download
-                                    </button>
-                                </div>
+                                <!-- If we need navigation buttons -->
+                                <div class="swiper-button-prev"></div>
+                                <div class="swiper-button-next"></div>
+                                <!-- Add Pagination -->
+                                <div class="swiper-pagination"></div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-md-12 col-sm-12">
+                            <div class="project-description">
+                                <p>
+                                    This is the second demo of my project "DBZ Fury Budokai", a full game with the gorgeous extreme butoden sprites...
+                                    This demo contain 8 characters (Raditz, Nappa, Krilin, Goku, Vegeta, Piccolo, Ginyu and Frieza) and 10 stages.
+                                    Changes until the last demo :
+                                </p>
+                                <ul>
+                                    <li> - 4 new chars : Vegeta, Piccolo, Ginyu and Frieza</li>
+                                    <li>  - 4 new stages</li>
+                                    <li>  - Update all the chars : improve AI and gameplay, with the feedbacks on Ginyu</li>
+                                    <li> - 4 new chars : Vegeta, Piccolo, Ginyu and Frieza</li>
+                                </ul>
+                                <p>
+                                    A "read-me" is joined to the demo, i suggest you to take a look at it...
+                                </p>
+                                <p>
+                                    Date de mise à jour : 20/09/2017
+                                </p>
+                            </div>
+                            <div class="text-center">
+                                <a target="_blank" class="link link-screenpack"
+                                   href="http://www.mediafire.com/file/2cydwrmazfb1c2a/DBZ_Fury_Budokai_ByMisterr07_Demo2.1.rar">Telecharger</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 p-2">
-                        <div class="project">
-                            <h2 class="project-title">CVS Fury of The Warriors</h2>
-                            <div class="row">
-                                <div class="col-xl-9">
-                                    <iframe frameborder="0" src="https://www.dailymotion.com/embed/video/x3h3ln4"
-                                            allowfullscreen allow="autoplay" class="video-projet"></iframe>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="project container-fluid">
+                    <h2 class="project-title">CVS Fury of the Warriors</h2>
+                    <div class="row">
+                        <div class="col-xl-4 col-md-6 col-sm-12">
+                            <div class="text-center">
+                                <iframe src="https://www.dailymotion.com/embed/video/x2gl4pt" allowfullscreen allow="autoplay" class="video-projet"></iframe>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-md-6 col-sm-12">
+                            <div class="swiper-container">
+                                <!-- Additional required wrapper -->
+                                <div class="swiper-wrapper">
+                                    <!-- Slides -->
+                                    <div class="swiper-slide">
+                                        <img src="img/stages/stage01.jpg" alt="img-1" class="carousel-img">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img src="img/stages/stage02.jpg" alt="img-1" class="carousel-img">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img src="img/stages/stage03.jpg" alt="img-1" class="carousel-img">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img src="img/stages/stage04.jpg" alt="img-1" class="carousel-img">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img src="img/stages/stage01.jpg" alt="img-1" class="carousel-img">
+                                    </div>
                                 </div>
-                                <div class="col-xl-2">
-                                    <button>
-                                        Download
-                                    </button>
-                                </div>
+                                <!-- If we need navigation buttons -->
+                                <div class="swiper-button-prev"></div>
+                                <div class="swiper-button-next"></div>
+                                <!-- Add Pagination -->
+                                <div class="swiper-pagination"></div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-md-12 col-sm-12">
+                            <div class="project-description">
+                                <p>
+                                    This is the second demo of my project "DBZ Fury Budokai", a full game with the gorgeous extreme butoden sprites...
+                                    This demo contain 8 characters (Raditz, Nappa, Krilin, Goku, Vegeta, Piccolo, Ginyu and Frieza) and 10 stages.
+                                    Changes until the last demo :
+                                </p>
+                                <ul>
+                                    <li> - 4 new chars : Vegeta, Piccolo, Ginyu and Frieza</li>
+                                    <li>  - 4 new stages</li>
+                                    <li>  - Update all the chars : improve AI and gameplay, with the feedbacks on Ginyu</li>
+                                    <li> - 4 new chars : Vegeta, Piccolo, Ginyu and Frieza</li>
+                                </ul>
+                                <p>
+                                    A "read-me" is joined to the demo, i suggest you to take a look at it...
+                                </p>
+                                <p>
+                                    Date de mise à jour : 06/12/2015
+                                </p>
+                            </div>
+                            <div class="text-center">
+                                <a target="_blank" class="link link-screenpack"
+                                   href="http://www.mediafire.com/file/comp7cjfr65cufb/Cvs_FuryoftheWarriors_ByMisterr07.rar">Telecharger</a>
                             </div>
                         </div>
                     </div>
@@ -66,12 +165,23 @@
             </div>
         </div>
     </div>
+    <footer>
+        <ul class="links">
+            <li class="partner"><a href="http://mugenguild.com/forum/" target="_blank">Mugen Fighter Guild</a></li>
+            <li class="partner"><a href="http://cdzjuego2d.foroactivo.com/" target="_blank">CDZ Juego</a></li>
+            <li class="partner"><a href="http://mugenpixart.mastertopforum.com/" target="_blank">Mugen Pixart</a></li>
+            <li class="partner"><a href="http://saint-seiya-px.fansforum.info" target="_blank">Saint Seiya PX</a></li>
+            <li class="partner"><a href="https://www.jeuxmangas.com/" target="_blank">Jeux Mangas</a></li>
+            <li class="partner"><a href="http://mike.mugen.free.fr/" target="_blank">Mike Mugen</a></li>
+        </ul>
+        <p>
+            Copyright  &#174; Misterr07 - 2019
+        </p>
+    </footer>
 </div>
-<footer>
-
-</footer>
 <script src="js/jquery.min.js"></script>
-<script src="js/handlebars.min.js"></script>
-<script src="js/algo_projets.js"></script>
+<script src="js/responsive.js"></script>
+<script src="https://unpkg.com/swiper/js/swiper.js"></script>
+<script src="js/projects.js"></script>
 </body>
 </html>
