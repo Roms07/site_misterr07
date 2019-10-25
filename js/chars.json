@@ -5,360 +5,540 @@
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso texte de description du perso texte de description du perso texte de description du perso texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 1,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "cvs"
+      "type": "cvs",
+      "update": "02/10/2019"
     },
     {
       "id": 2,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 3,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "cvs"
+      "type": "cvs",
+      "update": "02/10/2019"
     },
     {
       "id": 4,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 5,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 6,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 7,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 0,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 1,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "cvs"
+      "type": "cvs",
+      "update": "02/10/2019"
     },
     {
       "id": 2,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 3,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "cvs"
+      "type": "cvs",
+      "update": "02/10/2019"
     },
     {
       "id": 0,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 1,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 2,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 3,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 0,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 1,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 2,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 3,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "cvs"
+      "type": "cvs",
+      "update": "02/10/2019"
     },
     {
       "id": 0,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 1,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 2,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 3,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 0,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 1,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 2,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 3,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "cvs"
+      "type": "cvs",
+      "update": "02/10/2019"
     },
     {
       "id": 0,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 1,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 2,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 3,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 0,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 1,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "other"
+      "type": "other",
+      "update": "23/10/2019"
     },
     {
       "id": 2,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "dbz"
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 3,
       "name": "Goku",
       "portrait": "img/portraits/goku0.png",
       "link": "http://www.mediafire.com",
-      "image": "img/portraits/goku1.png",
+      "images": [
+        "img/stages/stage01.jpg",
+        "img/stages/stage02.jpg",
+        "img/stages/stage03.jpg"
+      ],
       "sprite": "img/portraits/goku2.png",
       "description": "texte de description du perso",
-      "type": "cvs"
+      "type": "cvs",
+      "update": "02/10/2019"
     }
   ]
 }

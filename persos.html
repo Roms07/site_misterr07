@@ -7,6 +7,7 @@
     <meta name="keywords" content="mugen chars screenpack misterr07 saint seiya dbz">
     <title>Personnages</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap-grid.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
@@ -37,11 +38,13 @@
             <button type="button" data-filter=".other" class="select-button">Divers</button>
         </div>
         <div id="characters" class="row">
-            <div class="col-12 col-xl-9 col-md-8">
+            <div class="col-12 col-xl-8 col-lg-7 col-md-6">
                 <div id="chars" class="row visible">
                 </div>
             </div>
-            <div class="col-12 col-xl-3 col-md-4" id="view">
+            <div class="col-12 col-xl-4 col-lg-5 col-md-6" id="view">
+                <div class="choice container-fluid">
+                </div>
             </div>
         </div>
         <div class="close-view">
@@ -67,6 +70,7 @@
 <script src="js/responsive.js"></script>
 <script src="js/handlebars.min.js"></script>
 <script src="js/mixitup.js"></script>
+<script src="https://unpkg.com/swiper/js/swiper.js"></script>
 <script src="js/algo_chars.js"></script>
 <script id="chars-template" type="text/x-handlebars-template">
     {{#each chars}}
@@ -74,9 +78,10 @@
             <img class="portrait" src="{{portrait}}" alt="{{name}}">
             <input type="hidden" name="link" value="{{link}}">
             <input type="hidden" name="sprite" value="{{sprite}}">
-            <input type="hidden" name="image" value="{{image}}">
+            <input type="hidden" name="images" value="{{images}}">
             <input type="hidden" name="description" value="{{description}}">
             <input type="hidden" name="name" value="{{name}}">
+            <input type="hidden" name="update" value="{{update}}">
         </div>
     {{/each}}
 </script>

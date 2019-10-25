@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    const values = ['name','link', 'sprite', 'description', 'image'];
+    const values = ['name','link', 'sprite', 'description', 'images', 'update'];
     // Création de la "liste"
     $(function () {
         // Grab the template script
@@ -27,29 +27,63 @@ $(document).ready(function () {
             char[values[i]] = $(this).find(goodInput).get(0).value;
         }
 
+        // We create the carousel
+        let images = char.images.split(',');
+        let htmlImages = '';
+        for (let i =0; i < images.length; i++) {
+            htmlImages += '<div class="swiper-slide">'
+                +'<img src="'+images[i] +'" alt="img-'+i +'" class="carousel-img">'
+                +'</div>';
+        }
+
+        // Calculate Max Width for Carousel
+        // let carouselMaxWidth = Math.max(.7*$('.choice').width() , 322);
+        let carouselMaxWidth = .725*$('.choice').width();
         if (width < 768) {
             $('#chars').removeClass('visible');
             $('#view').addClass('visible');
             $('.close-view').addClass('visible');
+            carouselMaxWidth = width*(.6 +.25*(width < 576));
         }
 
-       $('#view').html(
-       '<div class="choice container-fluid">'
+        $('.choice').html(
+           '<h3 class="name-char">'+char.name+'</h3>'
            +'<div class="row mt-3">'
-               +'<div class="col-6 p-0">'
-                    +'<img class="big-portrait" alt="" src=' +char.image + '>'
+               +'<div class="col-sm-8 col-12 pr-0 pl-0">'
+                    +'<div class="swiper-container carousel-perso">'
+                        +'<div class="swiper-wrapper">'+htmlImages+'</div>'
+                        +'<div class="swiper-button-prev"></div>'
+                        +'<div class="swiper-button-next"></div>'
+                        +'<div class="swiper-pagination"></div>'
+                    +'</div>'
                +'</div>'
-               +'<div class="col-6 text-center pr-0">'
-                   +'<h3 class="name-char">'+char.name+'</h3>'
-                   +'<img class="sprite" alt="Goku" src=' +char.sprite +'>'
+               +'<div class="col-sm-4 col-12 text-center pr-0">'
+                   +'<div><img class="sprite" alt="Goku" src=' +char.sprite +'></div>'
                    +'<a target="_blank" class="link" href='+char.link +'>Telecharger</a>'
+                   +'<p class="update">Maj : &nbsp;'+char.update+'</p>'
                +'</div>'
            +'</div>'
            +'<div class="row">'
                 +'<p class="description">' +char["description"] +'</p>'
            +'</div>'
-        +'</div>'
-       );
+        );
+
+        $('.carousel-perso').width(carouselMaxWidth);
+
+        // Carousel with Swiper
+        let charSwiper = new Swiper('.swiper-container', {
+            speed: 500,
+            effect: 'fade',
+            grabCursor: true,
+            loop: true,
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+            pagination: {
+                el: '.swiper-pagination',
+            },
+        });
     });
 
     $('.close-view').on('click', function (event) {
