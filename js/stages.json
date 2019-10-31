@@ -2,59 +2,297 @@
 	"stages": [
 		{
 			"id": 0,
-			"name": "Stage1",
-			"image": "img/stages/stage01.jpg",
+			"name": "City 1",
+			"image": "img/stages/Stage_1.png",
 			"link": "http://www.mediafire.com",
 			"type": "dbz"
 		},
 		{
 			"id": 1,
-			"name": "Stage2",
-			"image": "img/stages/stage02.jpg",
+			"name": "City 2",
+			"image": "img/stages/Stage_2.png",
 			"link": "http://www.mediafire.com",
 			"type": "dbz"
 		},
 		{
 			"id": 2,
-			"name": "Stage1",
-			"image": "img/stages/stage03.jpg",
+			"name": "Desert",
+			"image": "img/stages/Stage_3.png",
 			"link": "http://www.mediafire.com",
-			"type": "cvs"
+			"type": "dbz"
 		},
 		{
 			"id": 3,
-			"name": "Stage2",
-			"image": "img/stages/stage04.jpg",
+			"name": "Space Pod",
+			"image": "img/stages/Stage_4.png",
 			"link": "http://www.mediafire.com",
-			"type": "other"
+			"type": "dbz"
 		},
 		{
 			"id": 4,
-			"name": "Stage1",
-			"image": "img/stages/stage05.jpg",
+			"name": "Tenkaichi",
+			"image": "img/stages/Stage_5.png",
 			"link": "http://www.mediafire.com",
-			"type": "cvs"
+			"type": "dbz"
 		},
 		{
 			"id": 5,
-			"name": "Stage2",
-			"image": "img/stages/stage02.jpg",
+			"name": "Tower",
+			"image": "img/stages/Stage_6.png",
 			"link": "http://www.mediafire.com",
-			"type": "cvs"
+			"type": "dbz"
 		},
 		{
 			"id": 6,
-			"name": "Stage1",
-			"image": "img/stages/stage01.jpg",
+			"name": "Snake",
+			"image": "img/stages/Stage_7.png",
 			"link": "http://www.mediafire.com",
 			"type": "dbz"
 		},
 		{
 			"id": 7,
-			"name": "Stage2",
-			"image": "img/stages/stage02.jpg",
+			"name": "Namek",
+			"image": "img/stages/Stage_8.png",
+			"link": "http://www.mediafire.com",
+			"type": "dbz"
+		},
+		{
+			"id": 8,
+			"name": "Namek Destroyed",
+			"image": "img/stages/Stage_9.png",
+			"link": "http://www.mediafire.com",
+			"type": "dbz"
+		},
+		{
+			"id": 9,
+			"name": "Planet Kaio",
+			"image": "img/stages/Stage_10.png",
+			"link": "http://www.mediafire.com",
+			"type": "dbz"
+		},
+		{
+			"id": 10,
+			"name": "China",
+			"image": "img/stages/Stage_11.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 11,
+			"name": "India",
+			"image": "img/stages/Stage_12.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 12,
+			"name": "California",
+			"image": "img/stages/Stage_13.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 13,
+			"name": "England",
+			"image": "img/stages/Stage_14.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 14,
+			"name": "Brazil",
+			"image": "img/stages/Stage_15.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 15,
+			"name": "Japan 2",
+			"image": "img/stages/Stage_16.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 16,
+			"name": "Japan 1",
+			"image": "img/stages/Stage_17.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 17,
+			"name": "Italy",
+			"image": "img/stages/Stage_18.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 18,
+			"name": "Snk Planet",
+			"image": "img/stages/Stage_19.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 19,
+			"name": "Beach",
+			"image": "img/stages/Stage_20.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 20,
+			"name": "Bridge",
+			"image": "img/stages/Stage_21.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 21,
+			"name": "Temple",
+			"image": "img/stages/Stage_22.png",
+			"link": "http://www.mediafire.com",
+			"type": "cvs"
+		},
+		{
+			"id": 22,
+			"name": "Hyoga Stage",
+			"image": "img/stages/Stage_23.png",
 			"link": "http://www.mediafire.com",
 			"type": "other"
+		},
+		{
+			"id": 23,
+			"name": "SF3 Japan",
+			"image": "img/stages/Stage_24.png",
+			"link": "http://www.mediafire.com",
+			"type": "other"
+		},
+		{
+			"id": 24,
+			"name": "Desert 1",
+			"image": "img/stages/Stage_25.jpg",
+			"link": "http://www.mediafire.com/download/3ilq4g484c3w679/Desert.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 25,
+			"name": "Karin Tower",
+			"image": "img/stages/Stage_26.jpg",
+			"link": "http://www.mediafire.com/download/zhmjr0h1c43847w/Karin.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 26,
+			"name": "Training",
+			"image": "img/stages/Stage_27.jpg",
+			"link": "http://www.mediafire.com/download/05q7ywq2mvqr7nw/Training.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 27,
+			"name": "Tenkaichi",
+			"image": "img/stages/Stage_28.jpg",
+			"link": "http://www.mediafire.com/download/49sje1jxe1g4cvq/Tournoi.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 28,
+			"name": "Kame House",
+			"image": "img/stages/Stage_29.jpg",
+			"link": "http://www.mediafire.com/download/564l3l8gefokar9/KameHouse.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 29,
+			"name": "Palace",
+			"image": "img/stages/Stage_30.jpg",
+			"link": "http://www.mediafire.com/download/bltcol9bethbx75/Palais.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 30,
+			"name": "Namek End",
+			"image": "img/stages/Stage_31.jpg",
+			"link": "http://www.mediafire.com/download/akjux7y7txtb652/Namek_End.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 31,
+			"name": "Namek",
+			"image": "img/stages/Stage_32.jpg",
+			"link": "http://www.mediafire.com/download/z82cc8glkl3oll4/Namek.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 32,
+			"name": "Namek 2",
+			"image": "img/stages/Stage_33.jpg",
+			"link": "http://www.mediafire.com/download/ne5r63mrxcn336f/Namek2.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 33,
+			"name": "Freezer Ship",
+			"image": "img/stages/Stage_34.jpg",
+			"link": "http://www.mediafire.com/download/9sba4g9xr1ddfjt/Vaisseau.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 34,
+			"name": "Hell",
+			"image": "img/stages/Stage_35.jpg",
+			"link": "http://www.mediafire.com/download/13n3755qh1omyuo/Enfer.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 35,
+			"name": "Red Ribbon",
+			"image": "img/stages/Stage_36.jpg",
+			"link": "http://www.mediafire.com/download/h51zdw0des1w135/RubanRouge.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 36,
+			"name": "Gero Lab",
+			"image": "img/stages/Stage_37.jpg",
+			"link": "http://www.mediafire.com/download/qyzx9w2ze1ltxa3/Labo.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 37,
+			"name": "Desert 2",
+			"image": "img/stages/Stage_38.jpg",
+			"link": "http://www.mediafire.com/download/t7mm5zix39kdrc2/Desert2.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 38,
+			"name": "Satan Stadium",
+			"image": "img/stages/Stage_39.jpg",
+			"link": "http://www.mediafire.com/download/u33r5rysv67311f/Stade.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 39,
+			"name": "Trunks Ship",
+			"image": "img/stages/Stage_40.jpg",
+			"link": "http://www.mediafire.com/download/jqbemx81qjr18mz/Futur.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 40,
+			"name": "Cell Game",
+			"image": "img/stages/Stage_41.jpg",
+			"link": "http://www.mediafire.com/download/yu61rcv880c78z1/cellgame.rar",
+			"type": "dbz"
+		},
+		{
+			"id": 41,
+			"name": "Tenkaichi 2",
+			"image": "img/stages/Stage_42.jpg",
+			"link": "http://www.mediafire.com/download/rqsx2ar1vt99w9u/Tournoi2.rar",
+			"type": "dbz"
 		}
 	]
 }

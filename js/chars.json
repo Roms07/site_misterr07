@@ -3,542 +3,416 @@
     {
       "id": 0,
       "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "portrait": "img/portraits/Goku_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_18.png",
+        "img/fights/Fight_21.png",
+        "img/fights/Fight_22.png",
+        "img/fights/Fight_23.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso texte de description du perso texte de description du perso texte de description du perso texte de description du perso",
+      "sprite": "img/sprites/Goku_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Extreme Butoden, Gameplay : 4 Bouttons + 2 Specials, Z-Assists et A.I, personnage issu du projet DBZ Fury Budokai !",
       "type": "dbz",
       "update": "22/10/2019"
     },
     {
       "id": 1,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "name": "Krilin",
+      "portrait": "img/portraits/Krilin_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_23.png",
+        "img/fights/Fight_24.png",
+        "img/fights/Fight_25.png",
+        "img/fights/Fight_26.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "cvs",
-      "update": "02/10/2019"
+      "sprite": "img/sprites/Krilin_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Extreme Butoden, Gameplay : 4 Bouttons + 2 Specials, Z-Assists et A.I, personnage issu du projet DBZ Fury Budokai !",
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 2,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "name": "Raditz",
+      "portrait": "img/portraits/Raditz_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_5.png",
+        "img/fights/Fight_14.png",
+        "img/fights/Fight_34.png",
+        "img/fights/Fight_35.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
+      "sprite": "img/sprites/Raditz_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Extreme Butoden, Gameplay : 4 Bouttons + 2 Specials, Z-Assists et A.I, personnage issu du projet DBZ Fury Budokai !",
       "type": "dbz",
       "update": "22/10/2019"
     },
     {
       "id": 3,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "name": "Nappa",
+      "portrait": "img/portraits/Nappa_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_5.png",
+        "img/fights/Fight_21.png",
+        "img/fights/Fight_32.png",
+        "img/fights/Fight_33.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "cvs",
-      "update": "02/10/2019"
+      "sprite": "img/sprites/Nappa_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Extreme Butoden, Gameplay : 4 Bouttons + 2 Specials, Z-Assists et A.I, personnage issu du projet DBZ Fury Budokai !",
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 4,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "name": "Vegeta",
+      "portrait": "img/portraits/Vegeta_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_6.png",
+        "img/fights/Fight_27.png",
+        "img/fights/Fight_28.png",
+        "img/fights/Fight_29.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
+      "sprite": "img/sprites/Vegeta_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Extreme Butoden, Gameplay : 4 Bouttons + 2 Specials, Z-Assists et A.I, personnage issu du projet DBZ Fury Budokai !",
       "type": "dbz",
       "update": "22/10/2019"
     },
     {
       "id": 5,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "name": "Piccolo",
+      "portrait": "img/portraits/Piccolo_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_2.png",
+        "img/fights/Fight_25.png",
+        "img/fights/Fight_30.png",
+        "img/fights/Fight_31.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
+      "sprite": "img/sprites/Piccolo_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Extreme Butoden, Gameplay : 4 Bouttons + 2 Specials, Z-Assists et A.I, personnage issu du projet DBZ Fury Budokai !",
+      "type": "dbz",
+      "update": "22/10/2019"
     },
     {
       "id": 6,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "name": "Ginyu",
+      "portrait": "img/portraits/Ginyu_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_1.png",
+        "img/fights/Fight_6.png",
+        "img/fights/Fight_7.png",
+        "img/fights/Fight_11.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
+      "sprite": "img/sprites/Ginyu_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Extreme Butoden, Gameplay : 4 Bouttons + 2 Specials, Z-Assists et A.I, personnage issu du projet DBZ Fury Budokai !",
       "type": "dbz",
       "update": "22/10/2019"
     },
     {
       "id": 7,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "name": "Freezer",
+      "portrait": "img/portraits/Freezer_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_2.png",
+        "img/fights/Fight_18.png",
+        "img/fights/Fight_19.png",
+        "img/fights/Fight_20.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 0,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
+      "sprite": "img/sprites/Freezer_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Extreme Butoden, Gameplay : 4 Bouttons + 2 Specials, Z-Assists et A.I, personnage issu du projet DBZ Fury Budokai !",
       "type": "dbz",
       "update": "22/10/2019"
     },
     {
-      "id": 1,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "id": 8,
+      "name": "Andy",
+      "portrait": "img/portraits/Andy_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_4.png",
+        "img/fights/Fight_36.png",
+        "img/fights/Fight_37.png",
+        "img/fights/Fight_38.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
+      "sprite": "img/sprites/Andy_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS Style par Dampir, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
       "type": "cvs",
-      "update": "02/10/2019"
-    },
-    {
-      "id": 2,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "dbz",
       "update": "22/10/2019"
     },
     {
-      "id": 3,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "id": 9,
+      "name": "Chun-Li",
+      "portrait": "img/portraits/ChunLi_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_9.png",
+        "img/fights/Fight_39.png",
+        "img/fights/Fight_40.png",
+        "img/fights/Fight_41.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
+      "sprite": "img/sprites/ChunLi_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS2, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
       "type": "cvs",
-      "update": "02/10/2019"
-    },
-    {
-      "id": 0,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 1,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "dbz",
       "update": "22/10/2019"
     },
     {
-      "id": 2,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "id": 10,
+      "name": "Dhalsim",
+      "portrait": "img/portraits/Dhalsim_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_4.png",
+        "img/fights/Fight_42.png",
+        "img/fights/Fight_43.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 3,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 0,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "dbz",
-      "update": "22/10/2019"
-    },
-    {
-      "id": 1,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 2,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "dbz",
-      "update": "22/10/2019"
-    },
-    {
-      "id": 3,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
+      "sprite": "img/sprites/Dhalsim_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS2, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
       "type": "cvs",
-      "update": "02/10/2019"
-    },
-    {
-      "id": 0,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 1,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "dbz",
       "update": "22/10/2019"
     },
     {
-      "id": 2,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "id": 11,
+      "name": "Dudley",
+      "portrait": "img/portraits/Dudley_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_10.png",
+        "img/fights/Fight_44.png",
+        "img/fights/Fight_45.png",
+        "img/fights/Fight_46.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 3,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 0,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "dbz",
-      "update": "22/10/2019"
-    },
-    {
-      "id": 1,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 2,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "dbz",
-      "update": "22/10/2019"
-    },
-    {
-      "id": 3,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
+      "sprite": "img/sprites/Dudley_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS Style par MaranCV, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
       "type": "cvs",
-      "update": "02/10/2019"
-    },
-    {
-      "id": 0,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 1,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "dbz",
       "update": "22/10/2019"
     },
     {
-      "id": 2,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
+      "id": 12,
+      "name": "Joe Higashi",
+      "portrait": "img/portraits/Joe_0.png",
       "link": "http://www.mediafire.com",
       "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
+        "img/fights/Fight_12.png",
+        "img/fights/Fight_47.png",
+        "img/fights/Fight_48.png",
+        "img/fights/Fight_49.png"
       ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 3,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 0,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "dbz",
-      "update": "22/10/2019"
-    },
-    {
-      "id": 1,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "other",
-      "update": "23/10/2019"
-    },
-    {
-      "id": 2,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
-      "type": "dbz",
-      "update": "22/10/2019"
-    },
-    {
-      "id": 3,
-      "name": "Goku",
-      "portrait": "img/portraits/goku0.png",
-      "link": "http://www.mediafire.com",
-      "images": [
-        "img/stages/stage01.jpg",
-        "img/stages/stage02.jpg",
-        "img/stages/stage03.jpg"
-      ],
-      "sprite": "img/portraits/goku2.png",
-      "description": "texte de description du perso",
+      "sprite": "img/sprites/Joe_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS2, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
       "type": "cvs",
-      "update": "02/10/2019"
+      "update": "22/10/2019"
+    },
+    {
+      "id": 13,
+      "name": "Ken",
+      "portrait": "img/portraits/Ken_0.png",
+      "link": "http://www.mediafire.com",
+      "images": [
+        "img/fights/Fight_50.png",
+        "img/fights/Fight_51.png",
+        "img/fights/Fight_52.png",
+        "img/fights/Fight_69.png"
+      ],
+      "sprite": "img/sprites/Ken_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS2, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
+      "type": "cvs",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 14,
+      "name": "Mai",
+      "portrait": "img/portraits/Mai_0.png",
+      "link": "http://www.mediafire.com",
+      "images": [
+        "img/fights/Fight_9.png",
+        "img/fights/Fight_53.png",
+        "img/fights/Fight_54.png",
+        "img/fights/Fight_55.png"
+      ],
+      "sprite": "img/sprites/Mai_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS2, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
+      "type": "cvs",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 15,
+      "name": "Raiden",
+      "portrait": "img/portraits/Raiden_0.png",
+      "link": "http://www.mediafire.com",
+      "images": [
+        "img/fights/Fight_56.png",
+        "img/fights/Fight_57.png",
+        "img/fights/Fight_58.png",
+        "img/fights/Fight_59.png"
+      ],
+      "sprite": "img/sprites/Raiden_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS2, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
+      "type": "cvs",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 16,
+      "name": "Robert",
+      "portrait": "img/portraits/Robert_0.png",
+      "link": "http://www.mediafire.com",
+      "images": [
+        "img/fights/Fight_10.png",
+        "img/fights/Fight_68.png",
+        "img/fights/Fight_69.png",
+        "img/fights/Fight_70.png"
+      ],
+      "sprite": "img/sprites/Robert_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS Style par DGO, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
+      "type": "cvs",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 17,
+      "name": "Ryu",
+      "portrait": "img/portraits/Ryu_0.png",
+      "link": "http://www.mediafire.com",
+      "images": [
+        "img/fights/Fight_12.png",
+        "img/fights/Fight_60.png",
+        "img/fights/Fight_61.png",
+        "img/fights/Fight_62.png"
+      ],
+      "sprite": "img/sprites/Ryu_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS2, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
+      "type": "cvs",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 18,
+      "name": "Sean",
+      "portrait": "img/portraits/Sean_0.png",
+      "link": "http://www.mediafire.com",
+      "images": [
+        "img/fights/Fight_63.png",
+        "img/fights/Fight_64.png",
+        "img/fights/Fight_65.png",
+        "img/fights/Fight_53.png"
+      ],
+      "sprite": "img/sprites/Sean_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS Style par CVS The Abstract, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
+      "type": "cvs",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 19,
+      "name": "Terry",
+      "portrait": "img/portraits/Terry_0.png",
+      "link": "http://www.mediafire.com",
+      "images": [
+        "img/fights/Fight_44.png",
+        "img/fights/Fight_65.png",
+        "img/fights/Fight_66.png",
+        "img/fights/Fight_67.png"
+      ],
+      "sprite": "img/sprites/Terry_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: CVS2, Gameplay : 4 Bouttons + 2 Specials, Barre de fury, Stun, Guard, A.I, personnage issu du projet CVS Fury of the Warriors !",
+      "type": "cvs",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 20,
+      "name": "Cyclops",
+      "portrait": "img/portraits/Cyclops_0.png",
+      "link": "http://www.mediafire.com/file/z7c177760frehvm/Cyclops.7z/file",
+      "images": [
+        "img/fights/Fight_15.png",
+        "img/fights/Fight_16.png",
+        "img/fights/Fight_17.png",
+        "img/fights/Fight_80.png"
+      ],
+      "sprite": "img/sprites/Cyclops_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: MVC2, Gameplay : 4 Bouttons + 2 Specials, A.I, Version Orginale",
+      "type": "other",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 21,
+      "name": "Sabretooth",
+      "portrait": "img/portraits/Sabretooth_0.png",
+      "link": "http://www.mediafire.com/file/20ypg5d65gxu9sc/Sabretooth.7z",
+      "images": [
+        "img/fights/Fight_3.png",
+        "img/fights/Fight_13.png",
+        "img/fights/Fight_8.png",
+        "img/fights/Fight_81.png"
+      ],
+      "sprite": "img/sprites/Sabretooth_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: MVC2, Gameplay : 4 Bouttons + 2 Specials, A.I, Version Orginale",
+      "type": "other",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 22,
+      "name": "IronMan",
+      "portrait": "img/portraits/IronMan_0.png",
+      "link": "http://www.mediafire.com/download/qefl2my5mrpmoz3/Ironman.rar",
+      "images": [
+        "img/fights/Fight_71.png",
+        "img/fights/Fight_77.png",
+        "img/fights/Fight_78.png",
+        "img/fights/Fight_79.png"
+      ],
+      "sprite": "img/sprites/IronMan_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: MVC2, Gameplay : 6 Bouttons, A.I, Version Orginale",
+      "type": "other",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 23,
+      "name": "Fei Long",
+      "portrait": "img/portraits/FeiLong_0.png",
+      "link": "http://www.mediafire.com/file/wbdzi0fad60pzq4/Fei-long.rar",
+      "images": [
+        "img/fights/Fight_71.png",
+        "img/fights/Fight_85.png",
+        "img/fights/Fight_74.png",
+        "img/fights/Fight_75.png"
+      ],
+      "sprite": "img/sprites/FeiLong_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: SFA, Gameplay : 6 Bouttons, A.I, Version Orginale",
+      "type": "other",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 24,
+      "name": "Sean",
+      "portrait": "img/portraits/Sean2_0.png",
+      "link": "http://www.mediafire.com/file/7ixm3m9v64mpnap/sean.rar",
+      "images": [
+        "img/fights/Fight_72.png",
+        "img/fights/Fight_73.png",
+        "img/fights/Fight_76.png",
+        "img/fights/Fight_77.png"
+      ],
+      "sprite": "img/sprites/Sean2_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: SF3, Gameplay : 6 Bouttons, A.I, Version Orginale",
+      "type": "other",
+      "update": "22/10/2019"
+    },
+    {
+      "id": 25,
+      "name": "Joe Higashi",
+      "portrait": "img/portraits/JoeXIII_0.png",
+      "link": "http://www.mediafire.com",
+      "images": [
+        "img/fights/Fight_82.png",
+        "img/fights/Fight_83.png",
+        "img/fights/Fight_84.png"
+      ],
+      "sprite": "img/sprites/JoeXIII_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: KOF XIII, Gameplay : KOF XIII, A.I, Tentative de créer un Joe proche de l'original",
+      "type": "other",
+      "update": "22/10/2019"
     }
   ]
 }
