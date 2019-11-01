@@ -8,7 +8,9 @@
       "video": "https://www.dailymotion.com/embed/video/xd649i",
       "link": "http://www.mediafire.com/download/iza5712v8yk1ra4/screenpack_galaxian_Wars_by_misterr07.zip",
       "description": "Le screenpack est fourni avec les big portraits que vous voyiez dans l'écran select, et seuls ceux-ci permettent de faire fonctionner le screenpack correctement. N'oubliez pas de lire le read-me avant d'installer le screenpack ! ",
-      "type": "saint-seiya"
+      "type": "saint-seiya",
+      "hasOtherLinks" : false,
+      "otherLinks" : []
     },
     {
       "id": 1,
@@ -18,7 +20,9 @@
       "video": "https://www.dailymotion.com/embed/video/xdmwh1",
       "link": "http://www.mediafire.com/download/rc16bxbmqcu4v9k/screenpack_Asgard.zip",
       "description": "Le screenpack est fourni avec les big portraits que vous voyiez dans l'écran select, et seuls ceux-ci permettent de faire fonctionner le screenpack correctement. N'oubliez pas de lire le read-me avant d'installer le screenpack !",
-      "type": "saint-seiya"
+      "type": "saint-seiya",
+      "hasOtherLinks" : false,
+      "otherLinks" :  []
     },
     {
       "id": 2,
@@ -28,7 +32,22 @@
       "video": "https://www.dailymotion.com/embed/video/xpkqc9",
       "link": "http://www.mediafire.com/download/ittbllcl4fspyu5/Screenpack_SaintSeiya.rar",
       "description": "N'oubliez pas de lire le read-me avant d'installer le screenpack !",
-      "type": "saint-seiya"
+      "type": "saint-seiya",
+      "hasOtherLinks" : true,
+      "otherLinks" :  [
+        {
+          "name" : "Portraits",
+          "link" : "http://www.mediafire.com/download/3s5btym67hioem3/portraits.rar"
+        },
+        {
+          "name" : "Logo",
+          "link" : "http://www.mediafire.com/download/bb5s5thrmr23269/logo_saintseiya.rar"
+        },
+        {
+          "name" : "Logo HR",
+          "link" : "http://www.mediafire.com/download/y24l77gdmjvx9ai/logoHR_saintseiya.rar"
+        }
+      ]
     },
     {
       "id": 3,
@@ -45,7 +64,9 @@
       "video": "",
       "link": "http://www.mediafire.com",
       "description": "Premier screenpack saint seiya avec mugen 1.0 !",
-      "type": "saint-seiya"
+      "type": "saint-seiya",
+      "hasOtherLinks" : false,
+      "otherLinks" :  []
     },
     {
       "id": 4,
@@ -55,7 +76,9 @@
       "video": "https://www.dailymotion.com/embed/video/xm7ih5",
       "link": "http://www.mediafire.com/download/88mamnbbb8fuobn/screenpack-NewHolyWar.rar",
       "description": "Le screenpack est fourni avec les big portraits que vous voyiez dans l'écran select, et seuls ceux-ci permettent de faire fonctionner le screenpack correctement. N'oubliez pas de lire le read-me avant d'installer le screenpack !",
-      "type": "saint-seiya"
+      "type": "saint-seiya",
+      "hasOtherLinks" : false,
+      "otherLinks" :  []
     },
     {
       "id": 5,
@@ -71,7 +94,9 @@
       "video": "",
       "link": "http://www.mediafire.com/download/tzpyq6odmwl75a7/screenpackdbz.rar",
       "description": "Le screenpack est fourni avec des modèles de big portraits. N'oubliez pas de lire le read-me avant d'installer le screenpack !",
-      "type": "dbz"
+      "type": "dbz",
+      "hasOtherLinks" : false,
+      "otherLinks" :  []
     },
     {
       "id": 6,
@@ -86,7 +111,9 @@
       "video": "",
       "link": "http://www.mediafire.com/file/mzy3iat5tq8flb4/DBZMugenTenkaichi%255BByMisterr07%255D.rar",
       "description": "Le screenpack est fourni avec quelques portraits et un modèle pour créer d'autres portraits...",
-      "type": "dbz"
+      "type": "dbz",
+      "hasOtherLinks" : false,
+      "otherLinks" :  []
     },
     {
       "id": 7,
@@ -96,7 +123,14 @@
       "video": "https://www.dailymotion.com/embed/video/xiig2a",
       "link": "http://www.mediafire.com/download/c5hac7io99fa9xq/screenpack_MK.rar",
       "description": "Le screenpack est fourni avec les big portraits que vous voyiez dans l'écran select, et seuls ceux-ci permettent de faire fonctionner le screenpack correctement. N'oubliez pas de lire le read-me avant d'installer le screenpack !",
-      "type": "other"
+      "type": "other",
+      "hasOtherLinks" : true,
+      "otherLinks" :  [
+        {
+          "name" : "Intro",
+          "link" : "http://www.mediafire.com/download/bf2c38znp5pa72t/intro_MK.rar"
+        }
+      ]
     },
     {
       "id": 8,
@@ -106,7 +140,9 @@
       "video": "https://www.dailymotion.com/embed/video/xkqjdb",
       "link": "http://www.mediafire.com/download/c5hac7io99fa9xq/screenpack_MK.rar",
       "description": "Ce screenpack fonctionne avec les portraits classqiues de Mugen. N'oubliez pas de lire le read-me avant d'installer le screenpack !",
-      "type": "other"
+      "type": "other",
+      "hasOtherLinks" : false,
+      "otherLinks" :  []
     },
     {
       "id": 9,
@@ -116,7 +152,14 @@
       "video": "https://www.dailymotion.com/embed/video/xwnbrl",
       "link": "http://www.mediafire.com/file/aham2t643lev2vb/ScreenpackStreetFighter.rar",
       "description": "Ce screenpack est fourni avec 62 big portraits conçus pour l'occasion. N'oubliez pas de lire le read-me avant d'installer le screenpack !",
-      "type": "other"
+      "type": "other",
+      "hasOtherLinks" : true,
+      "otherLinks" :  [
+        {
+          "name" : "Intro",
+          "link" : "http://www.mediafire.com/download/kbmz4jxh9t73lf1/intro.rar"
+        }
+      ]
     },
     {
       "id": 10,
@@ -126,7 +169,9 @@
       "video": "https://www.dailymotion.com/embed/video/xoge95",
       "link": "http://www.mediafire.com/download/ygg93ywyjqy2vyw/Screenpack_Naruto_By_Misterr07.rar",
       "description": "Le screenpack est fourni avec des modèles de big portraits. N'oubliez pas de lire le read-me avant d'installer le screenpack !",
-      "type": "other"
+      "type": "other",
+      "hasOtherLinks" : false,
+      "otherLinks" :  []
     },
     {
       "id": 11,
@@ -136,7 +181,9 @@
       "video": "https://www.dailymotion.com/embed/video/x5f8rid",
       "link": "http://www.mediafire.com/file/b217wx1acueb61u/MVS_Screenpack_ByMisterr07.7z",
       "description": "Ce screenpack fonctionne avec les portraits classqiues de Mugen. N'oubliez pas de lire le read-me avant d'installer le screenpack !",
-      "type": "other"
+      "type": "other",
+      "hasOtherLinks" : false,
+      "otherLinks" :  []
     }
   ]
 }

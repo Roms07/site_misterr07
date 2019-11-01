@@ -95,6 +95,12 @@
                     <h3 class="screenpack-name">{{name}}</h3>
                     <p class="screen-description">{{description}}</p>
                     <a target="_blank" class="link link-screenpack" href={{link}}>Telecharger</a>
+                    {{#if hasOtherLinks}}
+                    <h4 class="other-links">Autres Liens :</h4>
+                        {{#each otherLinks}}
+                            <a target="_blank" class="other-link" href={{link}}>{{name}}</a>
+                        {{/each}}
+                    {{/if}}
                 </div>
             </div>
         </div>
