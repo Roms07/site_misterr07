@@ -229,7 +229,6 @@ footer p {
     border: #d5f8ff 6px groove;
     border-radius:3%;
     max-width: 100%;
-    height: 50rem;
     color :#fff;
     margin: auto 0;
     font-family: 'Bangers', cursive;
@@ -242,8 +241,6 @@ footer p {
 
 #chars {
     margin: 0 .15rem;
-    max-height: 46rem;
-    overflow: auto;
 }
 
 .perso {
@@ -305,7 +302,7 @@ footer p {
 }
 
 .description {
-    margin-top: 2.5rem;
+    margin: 2.5rem 0;
     font-size: 2rem;
     text-align: justify;
 }
@@ -529,7 +526,6 @@ footer p {
 
     #view {
         padding: 0 1rem;
-        height: 38rem;
     }
 
     .name-char {
@@ -537,8 +533,12 @@ footer p {
         margin: 1.4rem 0;
     }
 
+    .sprite {
+        max-width: 100%;
+    }
+
     .description {
-        margin-top: 1.5rem;
+        margin: 1.5rem 0;
         font-size: 1.75rem;
     }
 
@@ -581,16 +581,12 @@ footer p {
         font-size: 1.8rem;
     }
 
-    #chars {
-        max-height: 37rem;
-    }
-
     .update {
         margin: 1.4rem 0;
     }
 
     .description {
-        margin-top: 1.25rem;
+        margin: 1.25rem 0;
         font-size: 1.65rem;
     }
 
@@ -818,13 +814,7 @@ footer p {
         max-height: 100%;
     }
 
-    #view {
-        height: 56rem;
-    }
 
-    .sprite {
-        width : 50%
-    }
 
     .name-char {
         font-size: 4.55rem;
@@ -832,7 +822,7 @@ footer p {
     }
 
     .description {
-        margin-top: 1.9rem;
+        margin: 2rem 0;
         font-size: 2.65rem;
     }
 
