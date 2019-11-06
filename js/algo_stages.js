@@ -17,13 +17,4 @@ $(document).ready(function () {
 			let newMixer = mixitup('#stages');
 		});
 	});
-
-	$('#stages').on( 'mouseover', '.stage',function () {
-		$('.stage-name').remove();
-		let name = $(this).find('.image-stage').attr('alt');
-		$(this).append(
-			'<span class="stage-name">' +name +'</span>'
-		);
-
-	})
 });
