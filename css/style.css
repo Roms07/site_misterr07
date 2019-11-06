@@ -235,6 +235,21 @@ footer p {
     padding : 0 1rem;
 }
 
+#view:not(.visible) {
+    display: none;
+}
+
+#message:not(.visible) {
+    display: none;
+}
+
+#message h3 {
+    transform-origin: 0 0;
+    transform: rotate(20deg);
+    font-size: 3rem;
+    margin: 8rem 0 0 11rem;
+}
+
 #characters {
     padding: 0 1.2rem;
 }
@@ -599,6 +614,10 @@ footer p {
         margin: 1.4rem 0;
     }
 
+    #message h3 {
+        margin: 6rem 0 0 8rem;
+    }
+
     .description {
         margin: 1.25rem 0;
         font-size: 1.65rem;
@@ -804,10 +823,6 @@ footer p {
         width: 100%;
     }
 
-    #view:not(.visible) {
-        display: none;
-    }
-
     .close-view.visible {
         display: block;
         text-align: center;
@@ -828,7 +843,9 @@ footer p {
         max-height: 100%;
     }
 
-
+    #message {
+        display: none;
+    }
 
     .name-char {
         font-size: 4.55rem;

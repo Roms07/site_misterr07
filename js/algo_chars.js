@@ -22,6 +22,9 @@ $(document).ready(function () {
         let char = [];
         let width = window.innerWidth;
 
+        $('#view').addClass('visible');
+        $('#message').removeClass('visible');
+
         for (let i = 0; i < values.length; i++) {
             let goodInput = 'input[name=' +values[i] +']';
             char[values[i]] = $(this).find(goodInput).get(0).value;
