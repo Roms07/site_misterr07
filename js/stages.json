@@ -4,168 +4,168 @@
 			"id": 0,
 			"name": "City 1",
 			"image": "img/stages/Stage_1.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/ekggmpjgq9k173z/City_01.rar",
 			"type": "dbz"
 		},
 		{
 			"id": 1,
 			"name": "City 2",
 			"image": "img/stages/Stage_2.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/kx3epmg4nrrdfgy/City_02.rar",
 			"type": "dbz"
 		},
 		{
 			"id": 2,
 			"name": "Desert",
 			"image": "img/stages/Stage_3.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/qno7faamuig81kk/Desert.rar",
 			"type": "dbz"
 		},
 		{
 			"id": 3,
 			"name": "Space Pod",
 			"image": "img/stages/Stage_4.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/j1tf1pioconxt1k/Space_Pod.rar",
 			"type": "dbz"
 		},
 		{
 			"id": 4,
 			"name": "Tenkaichi",
 			"image": "img/stages/Stage_5.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/bqmfh9w1bp2f75x/Tenkaichi.rar",
 			"type": "dbz"
 		},
 		{
 			"id": 5,
 			"name": "Tower",
 			"image": "img/stages/Stage_6.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/omjlqei1q2xg0pt/Tower.rar",
 			"type": "dbz"
 		},
 		{
 			"id": 6,
 			"name": "Snake",
 			"image": "img/stages/Stage_7.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/wapxpedsu8f1g5a/Snake.rar",
 			"type": "dbz"
 		},
 		{
 			"id": 7,
 			"name": "Namek",
 			"image": "img/stages/Stage_8.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/z51jyj4yvi29u8c/Namek.rar",
 			"type": "dbz"
 		},
 		{
 			"id": 8,
 			"name": "Namek Destroyed",
 			"image": "img/stages/Stage_9.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/esiyfnrfpkv7idc/Namek_Destroyed.rar",
 			"type": "dbz"
 		},
 		{
 			"id": 9,
 			"name": "Planet Kaio",
 			"image": "img/stages/Stage_10.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/xpgubvjog68ek6o/Planet_Kaio.rar",
 			"type": "dbz"
 		},
 		{
 			"id": 10,
 			"name": "China",
 			"image": "img/stages/Stage_11.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/wxj56zh1ix4uvqt/China.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 11,
 			"name": "India",
 			"image": "img/stages/Stage_12.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/p8bfyqy8t1fjmk8/India.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 12,
 			"name": "California",
 			"image": "img/stages/Stage_13.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/glz2nmyrkwboah2/California.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 13,
 			"name": "England",
 			"image": "img/stages/Stage_14.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/9a0vxr7ptzpuuwa/England.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 14,
 			"name": "Brazil",
 			"image": "img/stages/Stage_15.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/m8q6mf5kaedzb7f/Brazil.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 15,
 			"name": "Japan 2",
 			"image": "img/stages/Stage_16.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/l0ay3k4vgcuv2n6/Japan_02.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 16,
 			"name": "Japan 1",
 			"image": "img/stages/Stage_17.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/zvyntp01isf1w0k/Japan_01.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 17,
 			"name": "Italy",
 			"image": "img/stages/Stage_18.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/1m7tcw4cqg3a3w3/Italy.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 18,
 			"name": "Snk Planet",
 			"image": "img/stages/Stage_19.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/3645igdwahi2xid/Snk_Planet.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 19,
 			"name": "Beach",
 			"image": "img/stages/Stage_20.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/z8m9vzkw3h311a3/Beach.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 20,
 			"name": "Bridge",
 			"image": "img/stages/Stage_21.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/bl11y1h35i67zvj/Bridge.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 21,
 			"name": "Temple",
 			"image": "img/stages/Stage_22.png",
-			"link": "http://www.mediafire.com",
+			"link": "https://www.mediafire.com/file/qxb30arbcwurv4p/Temple.rar",
 			"type": "cvs"
 		},
 		{
 			"id": 22,
 			"name": "Hyoga Stage",
 			"image": "img/stages/Stage_23.png",
-			"link": "http://www.mediafire.com",
+			"link": "http://www.mediafire.com/file/uzj61nzw121u8e8/hyoga-stage_1_0.rar",
 			"type": "other"
 		},
 		{
 			"id": 23,
 			"name": "SF3 Japan",
 			"image": "img/stages/Stage_24.png",
-			"link": "http://www.mediafire.com",
+			"link": "http://www.mediafire.com/file/mtd14paxipvy4es/Japan.rar",
 			"type": "other"
 		},
 		{
