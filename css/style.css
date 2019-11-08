@@ -669,6 +669,10 @@ footer p {
         font-size: 1.65rem;
     }
 
+    #select-type {
+        width: 90%;
+    }
+
     .perso {
         padding: .5rem;
     }
@@ -821,6 +825,15 @@ footer p {
 
     #select-type {
         width: 100%;
+    }
+
+    .select-button {
+        padding: 0 1rem;
+        margin: 0 1.9rem;
+    }
+
+    .select-button:hover {
+        padding: 0 2.1rem;
     }
 
     .close-view.visible {
