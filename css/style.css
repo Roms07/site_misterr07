@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Bangers');
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Boogaloo');
 
 @import "reset.css";
 
@@ -78,6 +79,10 @@ footer p {
 #img {
     margin: 0;
     width:auto;
+}
+
+.description {
+    font-family: 'Boogaloo', cursive;
 }
 
 /*-------  Navigation -----------*/
@@ -205,7 +210,7 @@ footer p {
 
 #pres p {
     text-align: justify;
-    font-size: 2.4rem;
+    font-size: 3.1rem;
     text-indent: 2rem;
     padding: 1.8rem 2.2rem 0 0;
     line-height: 1.2;
@@ -217,7 +222,7 @@ footer p {
 
 #news li {
     text-align: justify;
-    font-size: 2.4rem;
+    font-size: 3.1rem;
     padding: 1.8rem 0 0 2.2rem;
     line-height: 1.2;
 }
@@ -316,10 +321,11 @@ footer p {
     font-size: 2rem;
 }
 
-.description {
+.char-infos {
     margin: 2.5rem 0;
     font-size: 2rem;
     text-align: justify;
+    line-height: 1.1;
 }
 
 .text-center {
@@ -448,9 +454,9 @@ footer p {
     text-shadow: 2px 2px 0 rgba(255, 255, 255, .4);
 }
 
-.screen-description {
+.screen {
     color :#fff;
-    font-size: 2rem;
+    font-size: 2.4rem;
     text-align: justify;
     line-height: 1.2;
     margin : 2.75rem 0;
@@ -481,7 +487,6 @@ footer p {
 
 .other-links {
     color :#fff;
-    font-family: 'Bangers', cursive;
     font-size: 2.3rem;
     margin: 1.55rem 0;
 }
@@ -537,17 +542,17 @@ footer p {
     margin: .5rem 0 1.5rem 0;
 }
 
-.project-description {
+.project-infos {
     color :#fff;
     text-align: justify;
-    font-size: 2.2rem;
+    font-size: 2.4rem;
     line-height: 1.2;
     margin : 2.75rem 0;
     text-indent: 3rem;
     padding: 0 .75rem 0 0;
 }
 
-.project-description p:last-child{
+.project-infos p:last-child{
     margin-top: 1rem;
 }
 
@@ -572,7 +577,7 @@ footer p {
         max-width: 100%;
     }
 
-    .description {
+    .char-infos {
         margin: 1.5rem 0;
         font-size: 1.75rem;
     }
@@ -589,7 +594,7 @@ footer p {
         font-size: 2.2rem;
     }
 
-    .screen-description {
+    .screen {
         font-size: 1.9rem;
         line-height: 1.1;
         margin : 3rem 0;
@@ -624,7 +629,7 @@ footer p {
         margin: 6rem 0 0 8rem;
     }
 
-    .description {
+    .char-infos {
         margin: 1.25rem 0;
         font-size: 1.65rem;
     }
@@ -643,7 +648,7 @@ footer p {
         margin-top: 2rem;
     }
 
-    .screen-description {
+    .screen {
         font-size: 2.3rem;
         line-height: 1.3;
         margin : 3.8rem 0;
@@ -700,7 +705,7 @@ footer p {
         margin-top: 1.8rem;
     }
 
-    .screen-description {
+    .screen {
         font-size: 2.1rem;
         line-height: 1.3;
         margin : 3.2rem 0;
@@ -871,7 +876,7 @@ footer p {
         margin: 1.4rem 0;
     }
 
-    .description {
+    .char-infos {
         margin: 2rem 0;
         font-size: 2.65rem;
     }
@@ -903,8 +908,8 @@ footer p {
         margin-top: 1.3rem;
     }
 
-    .screen-description {
-        font-size: 2rem;
+    .screen {
+        font-size: 2.5rem;
         line-height: 1.2;
         margin : 2rem 0;
         text-indent: 2rem;
@@ -956,10 +961,6 @@ footer p {
         font-size: 4.2rem;
         padding: 1.2rem 1.5rem;
         margin-top: 1.5rem;
-    }
-
-    #view {
-        height: 72rem;
     }
 
     .big-portrait {

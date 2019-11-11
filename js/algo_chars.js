@@ -63,11 +63,11 @@ $(document).ready(function () {
                +'<div class="col-sm-4 col-12 text-center pr-0">'
                    +'<div><img class="sprite" alt="Goku" src=' +char.sprite +'></div>'
                    +'<a target="_blank" class="link" href='+char.link +'>Telecharger</a>'
-                   +'<p class="update">Maj : &nbsp;'+char.update+'</p>'
+                   +'<p class="update description">Maj : &nbsp;'+char.update+'</p>'
                +'</div>'
            +'</div>'
            +'<div class="row">'
-                +'<p class="description">' +char["description"] +'</p>'
+                +'<p class="char-infos description">' +char["description"] +'</p>'
            +'</div>'
         );
 
