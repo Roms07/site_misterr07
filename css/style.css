@@ -496,6 +496,12 @@ footer p {
     color:#fff;
 }
 
+.swiper-pagination-bullet {
+    width: 12px;
+    height: 12px;
+    opacity: .7;
+}
+
 .swiper-pagination-bullet-active {
     background: #fff;
 }
