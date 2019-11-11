@@ -298,18 +298,21 @@ footer p {
 
 .link {
     text-align: center;
-    font-size: 2.3rem;
     box-shadow: inset 0 1px 0 0 #fce2c1;
     background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
     border-radius:6px;
     border:1px solid #eeb44f;
-    display:inline-block;
     color:#ffffff;
     font-weight:bold;
-    padding:.75rem 1rem;
     text-decoration:none;
     text-shadow:0 1px 0 #ccb97e;
     transition: all .2s .1s;
+}
+
+.download-char {
+    font-size: 2.3rem;
+    padding:.75rem 1rem;
+    display:inline-block;
 }
 
 .link:hover {
@@ -464,25 +467,17 @@ footer p {
     padding: 0 .75rem 0 0;
 }
 
-.other-link {
-    margin : 1rem 20%;
-    text-align: center;
-    font-size: 2.3rem;
-    box-shadow: inset 0 1px 0 0 #fce2c1;
-    background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
-    border-radius:6px;
-    border:1px solid #eeb44f;
-    display:block;
-    color:#ffffff;
-    font-weight:bold;
+.download-screenpack {
+    font-size: 2.5rem;
     padding:.75rem 1rem;
-    text-decoration:none;
-    text-shadow:0 1px 0 #ccb97e;
-    transition: all .2s .1s;
+    display: inline-block;
 }
 
-.other-link:hover {
-    background:linear-gradient(to bottom, #fb9e25 5%, #ffc477 100%);
+.other-link {
+    margin : 1rem 20%;
+    font-size: 2.3rem;
+    display:block;
+    padding:.75rem 1rem;
 }
 
 .other-links {
@@ -559,7 +554,7 @@ footer p {
 /*!***** Media queries ******!*/
 
 @media screen and (max-width: 1449px){
-    .link {
+    .download-char {
         font-size: 1.9rem;
         padding: .65rem 1rem;
     }
@@ -638,7 +633,7 @@ footer p {
         font-size: 2.2rem;
     }
 
-    .link.link-screenpack {
+    .download-screenpack {
         font-size: 3.6rem;
         padding: 1rem 1.5rem;
     }
@@ -688,7 +683,7 @@ footer p {
         padding: .5rem;
     }
 
-    .link:not(.link-screenpack) {
+    .download-char {
         padding: .7rem;
     }
 
@@ -890,7 +885,7 @@ footer p {
         min-width: 100%;
     }
 
-    .link:not(.link-screenpack) {
+    .download-char {
         font-size: 3.1rem;
         padding: .75rem 1rem;
     }
@@ -957,7 +952,7 @@ footer p {
         padding: 0 1.2rem;
     }
 
-    .link:not(.link-screenpack) {
+    .download-char {
         font-size: 4.2rem;
         padding: 1.2rem 1.5rem;
         margin-top: 1.5rem;
@@ -995,7 +990,7 @@ footer p {
 }
 
 @media screen and (max-width: 475px) {
-    .link {
+    .download-char {
         font-size: 3rem;
         padding: .85rem .65rem;
     }

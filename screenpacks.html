@@ -94,11 +94,11 @@
                 <div class="col-xl-4 col-md-5 col-sm-12 text-center pl-0">
                     <h3 class="screenpack-name">{{name}}</h3>
                     <p class="screen description">{{description}}</p>
-                    <a target="_blank" class="link link-screenpack" href={{link}}>Telecharger</a>
+                    <a target="_blank" class="link download-screenpack" href={{link}}>Telecharger</a>
                     {{#if hasOtherLinks}}
                     <h4 class="other-links description">Autres Liens :</h4>
                         {{#each otherLinks}}
-                            <a target="_blank" class="other-link" href={{link}}>{{name}}</a>
+                            <a target="_blank" class="other-link link" href={{link}}>{{name}}</a>
                         {{/each}}
                     {{/if}}
                 </div>

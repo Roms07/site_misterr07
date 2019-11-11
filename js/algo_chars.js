@@ -62,7 +62,7 @@ $(document).ready(function () {
                +'</div>'
                +'<div class="col-sm-4 col-12 text-center pr-0">'
                    +'<div><img class="sprite" alt="Goku" src=' +char.sprite +'></div>'
-                   +'<a target="_blank" class="link" href='+char.link +'>Telecharger</a>'
+                   +'<a target="_blank" class="link download-char" href='+char.link +'>Telecharger</a>'
                    +'<p class="update description">Maj : &nbsp;'+char.update+'</p>'
                +'</div>'
            +'</div>'
