@@ -37,8 +37,6 @@ $(document).ready(function () {
 		});
 	});
 
-
-
 	// Same, but when the window is resize
 	$(window).resize( function () {
 		resizeVideo($('.video-screenpack'));
