@@ -773,7 +773,7 @@ footer p {
     }
 
     .navs-link::before {
-        bottom: 1.8rem;
+        bottom: 10%;
         width: 14px;
         height: 14px;
     }
