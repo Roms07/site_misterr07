@@ -736,7 +736,7 @@ footer p {
         0 -3px 0 hsl(10, 100%, 44%) inset,
         0 -4px 0 hsl(10, 100%, 50%) inset,
         0 -5px 0 hsl(10, 100%, 60%) inset;
-        margin: -3px auto 0 auto;
+        margin: -3px 0 0 0;
         width: 100%;
     }
 
@@ -750,7 +750,7 @@ footer p {
         color: rgba(255, 255, 255, .7);
         font-size: 28px;
         text-decoration: none;
-        margin-left: 95%;
+        margin-left: 92%;
     }
 
     .navigation {
@@ -773,15 +773,9 @@ footer p {
     }
 
     .navs-link::before {
-        content: '';
-        position: absolute;
-        left: 50%;
-        bottom: 2.1rem;
-        margin-left: -2px;
+        bottom: 1.8rem;
         width: 14px;
         height: 14px;
-        border-radius: 50%;
-        background: rgba(0, 0, 0, .5);
     }
 
     #nav-bar {
@@ -984,7 +978,7 @@ footer p {
         margin: 0;
     }
 
-    .video-projet {
+    .video-projet, .video-screenpack {
        max-width: 100%;
     }
 }
