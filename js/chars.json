@@ -413,6 +413,23 @@
       "description": "Mugen 1.0 <br> Sprites: KOF XIII <br> Gameplay : KOF XIII, A.I <br> Tentative de créer un Joe proche de l'original",
       "type": "other",
       "update": "07/11/2019"
+    },
+    {
+      "id": 26,
+      "name": "Android 16",
+      "portrait": "img/portraits/C16_0.png",
+      "link": "http://www.mediafire.com/file/29pkdlzlxkb67ze/C16.7z",
+      "images": [
+        "img/fights/Fight_86.png",
+        "img/fights/Fight_87.png",
+        "img/fights/Fight_88.png",
+        "img/fights/Fight_89.png",
+        "img/fights/Fight_90.png"
+      ],
+      "sprite": "img/sprites/C16_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Shin Butoden <br> Gameplay : 4 Bouttons + 2 Specials, Z-Attack et A.I <br> Un C16 original, proche du gameplay du projet DBZ Fury Budokai",
+      "type": "dbz",
+      "update": "07/01/2020"
     }
   ]
 }
