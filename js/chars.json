@@ -430,6 +430,22 @@
       "description": "Mugen 1.0 <br> Sprites: DBZ Shin Butoden <br> Gameplay : 4 Bouttons + 2 Specials, Z-Attack et A.I <br> Un C16 original, proche du gameplay du projet DBZ Fury Budokai",
       "type": "dbz",
       "update": "07/01/2020"
+    },
+    {
+      "id": 27,
+      "name": "Juggernaut",
+      "portrait": "img/portraits/Jugg_0.png",
+      "link": "http://www.mediafire.com/file/gixvvojyrs64br0/Juggernaut.rar",
+      "images": [
+        "img/fights/Fight_91.png",
+        "img/fights/Fight_92.png",
+        "img/fights/Fight_93.png",
+        "img/fights/Fight_94.png"
+      ],
+      "sprite": "img/sprites/Jugg.gif",
+      "description": "Mugen 1.0 <br> Sprites: MVC2 <br> Gameplay : 4 Bouttons + 2 Specials, A.I <br> Version Orginale",
+      "type": "other",
+      "update": "10/03/2020"
     }
   ]
 }
