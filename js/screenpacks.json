@@ -184,6 +184,18 @@
       "type": "other",
       "hasOtherLinks" : false,
       "otherLinks" :  []
+    },
+    {
+      "id": 12,
+      "name": "New Saint Seiya Screenpack",
+      "isVideo" : true,
+      "images": "",
+      "video": "https://www.dailymotion.com/embed/video/x7uga08",
+      "link": "https://www.mediafire.com/file/5sf8g35ymela3if/ScreenpackSaintSeiya.7z",
+      "description": "Le screenpack est fourni avec des modèles de big portraits. N'oubliez pas de lire le read-me avant d'installer le screenpack !",
+      "type": "saint-seiya",
+      "hasOtherLinks" : false,
+      "otherLinks" :  []
     }
   ]
 }
