@@ -446,6 +446,24 @@
       "description": "Mugen 1.0 <br> Sprites: MVC2 <br> Gameplay : 4 Bouttons + 2 Specials, A.I <br> Version Orginale",
       "type": "other",
       "update": "10/03/2020"
+    },
+    {
+      "id": 28,
+      "name": "Muten Roshi",
+      "portrait": "img/portraits/Muten_0.png",
+      "link": "https://www.mediafire.com/file/a2gqxo4wcu3eh06/Roshi.7z",
+      "images": [
+        "img/fights/Fight_95.png",
+        "img/fights/Fight_96.png",
+        "img/fights/Fight_97.png",
+        "img/fights/Fight_98.png",
+        "img/fights/Fight_99.png",
+        "img/fights/Fight_100.png"
+      ],
+      "sprite": "img/sprites/Muten_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Shin Butoden <br> Gameplay : 4 Bouttons + 2 Specials <br> Un Muten Roshi original, avec un gameplay à la P.o.t.S",
+      "type": "dbz",
+      "update": "18/02/2021"
     }
   ]
 }
