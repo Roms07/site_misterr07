@@ -464,6 +464,24 @@
       "description": "Mugen 1.0 <br> Sprites: DBZ Shin Butoden <br> Gameplay : 4 Bouttons + 2 Specials <br> Un Muten Roshi original, avec un gameplay à la P.o.t.S <br> Deux fichiers snd : Anglais ou Japonais",
       "type": "dbz",
       "update": "16/05/2021"
+    },
+    {
+      "id": 29,
+      "name": "Kenshiro",
+      "portrait": "img/portraits/kenshiro_0.png",
+      "link": "https://www.mediafire.com/file/kp46k37i8oc3ups/Kenshiro.7z",
+      "images": [
+        "img/fights/Fight_101.png",
+        "img/fights/Fight_102.png",
+        "img/fights/Fight_103.png",
+        "img/fights/Fight_104.png",
+        "img/fights/Fight_105.png",
+        "img/fights/Fight_106.png"
+      ],
+      "sprite": "img/sprites/kenshiro_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: Hokuto No Ken Fist of the north star <br> Gameplay : 4 Bouttons + 2 Specials <br> Un Kenshiro original, avec un gameplay à la P.o.t.S",
+      "type": "other",
+      "update": "01/09/2022"
     }
   ]
 }
