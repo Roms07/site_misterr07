@@ -469,7 +469,7 @@
       "id": 29,
       "name": "Kenshiro",
       "portrait": "img/portraits/kenshiro_0.png",
-      "link": "https://www.mediafire.com/file/c3wn4em28fa0ado/Kenshiro.7z",
+      "link": "https://www.mediafire.com/file/vn5nxijmmxcccrm/Kenshiro.7z",
       "images": [
         "img/fights/Fight_101.png",
         "img/fights/Fight_102.png",
@@ -481,7 +481,7 @@
       "sprite": "img/sprites/kenshiro_1.gif",
       "description": "Mugen 1.0 <br> Sprites: Hokuto No Ken Fist of the north star <br> Gameplay : 4 Bouttons + 2 Specials <br> Un Kenshiro original, avec un gameplay à la P.o.t.S",
       "type": "other",
-      "update": "01/09/2022"
+      "update": "30/10/2022"
     }
   ]
 }
