@@ -451,7 +451,7 @@
       "id": 28,
       "name": "Muten Roshi",
       "portrait": "img/portraits/Muten_0.png",
-      "link": "https://www.mediafire.com/file/n99m4986t0duo17/Roshi.7z",
+      "link": "https://www.mediafire.com/file/e5qrxs13n0b6yen/Roshi.7z",
       "images": [
         "img/fights/Fight_95.png",
         "img/fights/Fight_96.png",
@@ -463,7 +463,7 @@
       "sprite": "img/sprites/Muten_1.gif",
       "description": "Mugen 1.0 <br> Sprites: DBZ Shin Butoden <br> Gameplay : 4 Bouttons + 2 Specials <br> Un Muten Roshi original, avec un gameplay à la P.o.t.S <br> Deux fichiers snd : Anglais ou Japonais",
       "type": "dbz",
-      "update": "16/05/2021"
+      "update": "11/06/2023"
     },
     {
       "id": 29,
@@ -482,6 +482,24 @@
       "description": "Mugen 1.0 <br> Sprites: Hokuto No Ken Fist of the north star <br> Gameplay : 4 Bouttons + 2 Specials <br> Un Kenshiro original, avec un gameplay à la P.o.t.S",
       "type": "other",
       "update": "30/10/2022"
+    },
+    {
+      "id": 30,
+      "name": "Kid Goku",
+      "portrait": "img/portraits/kid_goku_0.png",
+      "link": "https://www.mediafire.com/file/yhgcm6z7pje836c/KidGoku.7z",
+      "images": [
+        "img/fights/Fight_107.png",
+        "img/fights/Fight_108.png",
+        "img/fights/Fight_109.png",
+        "img/fights/Fight_110.png",
+        "img/fights/Fight_111.png",
+        "img/fights/Fight_112.png"
+      ],
+      "sprite": "img/sprites/kid_goku_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Shin Butoden <br> Gameplay : 4 Bouttons + 2 Specials <br> Un kid Goku original, avec un gameplay à la P.o.t.S",
+      "type": "dbz",
+      "update": "11/06/2023"
     }
   ]
 }
