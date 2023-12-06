@@ -159,7 +159,7 @@
 			"name": "Hyoga Stage",
 			"image": "img/stages/Stage_23.png",
 			"link": "http://www.mediafire.com/file/uzj61nzw121u8e8/hyoga-stage_1_0.rar",
-			"type": "other"
+			"type": "ssy"
 		},
 		{
 			"id": 23,
@@ -293,6 +293,27 @@
 			"image": "img/stages/Stage_42.jpg",
 			"link": "http://www.mediafire.com/download/rqsx2ar1vt99w9u/Tournoi2.rar",
 			"type": "dbz"
+		},
+		{
+			"id": 42,
+			"name": "Ravens rock",
+			"image": "img/stages/Stage_43.png",
+			"link": "https://www.mediafire.com/file/29b4w5fkwivjv35/ravens_rock.rar",
+			"type": "ssy"
+		},
+		{
+			"id": 43,
+			"name": "Sagitarius Temple",
+			"image": "img/stages/Stage_44.png",
+			"link": "https://www.mediafire.com/file/cnogur9c1xqfh0m/sagittarius_temple.rar",
+			"type": "ssy"
+		},
+		{
+			"id": 44,
+			"name": "Siberia",
+			"image": "img/stages/Stage_45.png",
+			"link": "https://www.mediafire.com/file/htfuob543o2kmxd/siberia.rar",
+			"type": "ssy"
 		}
 	]
 }
