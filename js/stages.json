@@ -298,21 +298,28 @@
 			"id": 42,
 			"name": "Ravens rock",
 			"image": "img/stages/Stage_43.png",
-			"link": "https://www.mediafire.com/file/29b4w5fkwivjv35/ravens_rock.rar",
+			"link": "https://www.mediafire.com/file/1owgaflaj17912t/ravens_rock.rar",
 			"type": "ssy"
 		},
 		{
 			"id": 43,
 			"name": "Sagitarius Temple",
 			"image": "img/stages/Stage_44.png",
-			"link": "https://www.mediafire.com/file/cnogur9c1xqfh0m/sagittarius_temple.rar",
+			"link": "https://www.mediafire.com/file/ukv6omsm4wjc5kq/sagitarius_temple.rar",
 			"type": "ssy"
 		},
 		{
 			"id": 44,
 			"name": "Siberia",
 			"image": "img/stages/Stage_45.png",
-			"link": "https://www.mediafire.com/file/htfuob543o2kmxd/siberia.rar",
+			"link": "https://www.mediafire.com/file/9htvgh43gzkhlpl/siberia.rar",
+			"type": "ssy"
+		},
+		{
+			"id": 45,
+			"name": "Greek Ruins",
+			"image": "img/stages/Stage_46.png",
+			"link": "https://www.mediafire.com/file/rqz0b1008w8y0zj/greek_ruins.rar",
 			"type": "ssy"
 		}
 	]
