@@ -321,6 +321,27 @@
 			"image": "img/stages/Stage_46.png",
 			"link": "https://www.mediafire.com/file/rqz0b1008w8y0zj/greek_ruins.rar",
 			"type": "ssy"
+		},
+		{
+			"id": 46,
+			"name": "Amethyst Forest",
+			"image": "img/stages/Stage_47.png",
+			"link": "https://www.mediafire.com/file/eyol9k74hr6kihz/amethyst_forest.rar",
+			"type": "ssy"
+		},
+		{
+			"id": 47,
+			"name": "Asgard Coast",
+			"image": "img/stages/Stage_48.png",
+			"link": "https://www.mediafire.com/file/6kl7mu1sxokayjo/asgard_coast.rar",
+			"type": "ssy"
+		},
+		{
+			"id": 48,
+			"name": "Asgard Ruins",
+			"image": "img/stages/Stage_49.png",
+			"link": "https://www.mediafire.com/file/94c106mjdpkuo8e/asgard_ruins.rar",
+			"type": "ssy"
 		}
 	]
 }
