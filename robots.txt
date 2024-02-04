@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /js
+
+Sitemap: https://misterr07world.go.zd.fr/sitemap.xml
