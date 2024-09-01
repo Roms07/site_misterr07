@@ -342,6 +342,34 @@
 			"image": "img/stages/Stage_49.png",
 			"link": "https://www.mediafire.com/file/94c106mjdpkuo8e/asgard_ruins.rar",
 			"type": "ssy"
+		},
+		{
+			"id": 49,
+			"name": "Beach",
+			"image": "img/stages/Stage_50.png",
+			"link": "https://www.mediafire.com/file/suq7rnn7mobvfpo/misty_beach.rar",
+			"type": "ssy"
+		},
+		{
+			"id": 50,
+			"name": "Castel",
+			"image": "img/stages/Stage_51.png",
+			"link": "https://www.mediafire.com/file/q26dae9a0ylxdmc/castle.rar",
+			"type": "ssy"
+		},
+		{
+			"id": 51,
+			"name": "Forest",
+			"image": "img/stages/Stage_52.png",
+			"link": "https://www.mediafire.com/file/b861i1h0h1nam0k/forest.rar",
+			"type": "ssy"
+		},
+		{
+			"id": 52,
+			"name": "Pope Room",
+			"image": "img/stages/Stage_53.png",
+			"link": "https://www.mediafire.com/file/a0bm1hyxvpvqzv9/pope.rar",
+			"type": "ssy"
 		}
 	]
 }
