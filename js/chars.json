@@ -500,6 +500,24 @@
       "description": "Mugen 1.0 <br> Sprites: DBZ Shin Butoden <br> Gameplay : 4 Bouttons + 2 Specials <br> Un kid Goku original, avec un gameplay à la P.o.t.S",
       "type": "dbz",
       "update": "11/06/2023"
+    },
+    {
+      "id": 31,
+      "name": "Trunks",
+      "portrait": "img/portraits/Trunks_0.png",
+      "link": "https://www.mediafire.com/file/8cqi3qt7r7eh2x2/Trunks.rar/file",
+      "images": [
+        "img/fights/Fight_113.png",
+        "img/fights/Fight_114.png",
+        "img/fights/Fight_115.png",
+        "img/fights/Fight_116.png",
+        "img/fights/Fight_117.png",
+        "img/fights/Fight_118.png"
+      ],
+      "sprite": "img/sprites/trunks_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: DBZ Extreme Butoden <br> Gameplay : 4 Bouttons + 2 Specials <br> Un Future Trunks original, avec un gameplay à la P.o.t.S",
+      "type": "dbz",
+      "update": "04/09/2024"
     }
   ]
 }

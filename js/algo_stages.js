@@ -9,7 +9,7 @@ $(document).ready(function () {
 		let theTemplate = Handlebars.compile(theTemplateScript);
 
 		// Define our data object
-		$.getJSON("js/stages.json?v3", {data: "json"}, function (response) {
+		$.getJSON("js/stages.json?v=3", {data: "json"}, function (response) {
 			// Pass our data to the template
 			let theCompiledHtml = theTemplate(response);
 			// Add the compiled html to the page
