@@ -196,6 +196,18 @@
       "type": "saint-seiya",
       "hasOtherLinks" : false,
       "otherLinks" :  []
+    },
+    {
+      "id": 13,
+      "name": "Saint Seiya Saints of Athena Screenpack",
+      "isVideo" : true,
+      "images": "",
+      "video": "https://www.youtube.com/embed/rCESfGQw2Zs",
+      "link": "https://www.mediafire.com/file/z3p3g14ydifuf54/SaintSeiya_SaintsOfAthena_IkemenGo_Screenpack.rar",
+      "description": "Screenpack pour IkemenGo. Le screenpack est fourni avec des modèles de big portraits. N'oubliez pas de lire le read-me avant d'installer le screenpack !",
+      "type": "saint-seiya",
+      "hasOtherLinks" : false,
+      "otherLinks" :  []
     }
   ]
 }
