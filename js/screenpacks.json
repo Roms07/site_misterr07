@@ -208,6 +208,18 @@
       "type": "saint-seiya",
       "hasOtherLinks" : false,
       "otherLinks" :  []
+    },
+    {
+      "id": 14,
+      "name": "DBZ Infinite World Screenpack",
+      "isVideo" : true,
+      "images": "",
+      "video": "https://www.youtube.com/embed/0M3gmLNG7Vk",
+      "link": "https://www.mediafire.com/file/ila4pu5ps573kpx/DBZ-Infinite-World-Screenpack-IkemenGo.7z",
+      "description": "Screenpack pour IkemenGo. Le screenpack est fourni avec des modèles de portraits. N'oubliez pas de lire le read-me avant d'installer le screenpack !",
+      "type": "dbz",
+      "hasOtherLinks" : false,
+      "otherLinks" :  []
     }
   ]
 }
