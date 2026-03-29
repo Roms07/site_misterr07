@@ -523,7 +523,7 @@
       "id": 32,
       "name": "Super Buu",
       "portrait": "img/portraits/Super_Buu_0.png",
-      "link": "https://www.mediafire.com/file/oumugvkk1vvllk6/SuperBuuByMisterr07.rar",
+      "link": "https://www.mediafire.com/file/61ezl43f0ewgjvn/SuperBuuByMisterr07.rar",
       "images": [
         "img/fights/Fight_119.png",
         "img/fights/Fight_120.png",
@@ -535,7 +535,7 @@
       "sprite": "img/sprites/Super_Buu_1.gif",
       "description": "Mugen 1.0 <br> Sprites: DBZ Shin Butoden <br> Gameplay : 4 Bouttons + 2 Specials <br> Un Super Buu original, avec un gameplay à la P.o.t.S",
       "type": "dbz",
-      "update": "20/03/2026"
+      "update": "29/03/2026"
     }
   ]
 }
