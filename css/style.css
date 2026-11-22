@@ -216,15 +216,21 @@ footer p {
     line-height: 1.2;
 }
 
-#news{
-
-}
-
 #news li {
     text-align: justify;
     font-size: 3.1rem;
     padding: 1.8rem 0 0 2.2rem;
     line-height: 1.2;
+}
+
+#news li a {
+    color: #211809;
+    text-decoration: none;
+    transition: text-shadow 0.2s ease;
+}
+
+#news li a:hover {
+    text-shadow: 0.35px 0 0 currentColor;
 }
 
 /*-------- Personnages ------------*/

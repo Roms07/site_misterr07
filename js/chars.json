@@ -536,6 +536,24 @@
       "description": "Mugen 1.0 <br> Sprites: DBZ Shin Butoden <br> Gameplay : 4 Bouttons + 2 Specials <br> Un Super Buu original, avec un gameplay à la P.o.t.S",
       "type": "dbz",
       "update": "29/03/2026"
+    },
+    {
+      "id": 32,
+      "name": "Black Panther",
+      "portrait": "img/portraits/Black_Panther_0.png",
+      "link": "https://www.mediafire.com/file/bb3futzlz75l6vu/BlackPantherByMisterr07.rar",
+      "images": [
+        "img/fights/Fight_125.png",
+        "img/fights/Fight_126.png",
+        "img/fights/Fight_127.png",
+        "img/fights/Fight_128.png",
+        "img/fights/Fight_129.png",
+        "img/fights/Fight_130.png"
+      ],
+      "sprite": "img/sprites/Black_Panther_1.gif",
+      "description": "Mugen 1.0 <br> Sprites: Marvel Cosmic Invasion <br> Gameplay : 4 Bouttons + 2 Specials <br> Version originale dans l'esprit MVC",
+      "type": "other",
+      "update": "22/11/2026"
     }
   ]
 }
